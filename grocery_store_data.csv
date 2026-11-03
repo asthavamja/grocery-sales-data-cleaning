@@ -1,0 +1,501 @@
+Transaction_ID,Date,Store_ID,Store_Location,Product_Category,Product_Name,Quantity_Sold,Unit_Price,Discount_Percent,Total_Sales,Payment_Mode,Customer_Rating,Employee_Name,Contact,Returned
+TXN00305,2024-02-22,S4,Bangalore,Dairy, Paneer - Local Brand ,5,94.76,5.0,450.11,UPI,4.0,Priya Mehta,Priya Mehta - priya.mehta@gmail.com,No
+TXN00341,2024-07-22,S2, Delhi,Produce,Tomato - Nestle,15,46.41,,696.15,Cash,3.4,  Priya Reddy  ,Priya Reddy - priya.reddy@store.in,No
+TXN00048,2025-03-30,S1,Chennai,Produce,Tomato - Amul,3,29.47,20.0,70.73,Credit Card,2.6,Rahul Nair,Rahul Nair - rahul.nair@gmail.com,No
+TXN00068,2024-12-03,S1,chennai,Bakery,Bun - Britannia,17,31.24,15.0,451.42,Cash,3.8,Rohan Reddy,Rohan Reddy - rohan.reddy@outlook.com,No
+TXN00480,2024-07-09,S1,Mumbai,Produce,Tomato - HUL,32,46.3,5.0,1407.52,Wallet,2.9,Priya Patel,Priya Patel - priya.patel@outlook.com,No
+TXN00486,2024-02-27,S5,mumbai,Dairy,Yogurt - Local Brand,48,45.19,0.0,2169.12,Cash,3.0,Rohan Nair,Rohan Nair - rohan.nair@yahoo.com,No
+TXN00311,2024-09-25,S5, Mumbai ,Household,Dish Soap - Patanjali,30,191.63,15.0,4886.56,Credit Card,2.8,Kavya Gupta,Kavya Gupta - kavya.gupta@store.in,No
+TXN00032,2024-07-08,S5,Delhi,Dairy,Butter - Britannia,3,54.69,0.0,164.07,Wallet,4.0,Amit Singh,Amit Singh - amit.singh@store.in,No
+TXN00250,2024-06-06,S5,mumbai,Bakery,Bread - Amul,23,45.28,5.0,989.37,UPI,3.3,Suresh Iyer,Suresh Iyer - suresh.iyer@store.in,No
+TXN00091,2024-02-10,S1,Chennai,Snacks, Chips - Patanjali ,16,29.9,0.0,478.4,Credit Card,3.6,Sneha Sharma,Sneha Sharma - sneha.sharma@outlook.com,No
+TXN00323,2024-04-05,S5,Chennai ,Dairy,Cheese - HUL,39,75.92,0.0,2960.88,UPI,4.1,Rohan Gupta,Rohan Gupta - rohan.gupta@outlook.com,No
+TXN00169,2024-07-16,S1,Bangalore,Beverages, Cola - Nestle ,40,44.56,0.0,1782.4,Cash,3.5,Rohan Nair,Rohan Nair - rohan.nair@store.in,No
+TXN00120,2024-03-26,S3,Bangalore,Bakery, Croissant - HUL ,9,40.66,15.0,311.05,Credit Card,4.6,Rohan Verma,Rohan Verma - rohan.verma@outlook.com,No
+TXN00067,2024-10-22,S4,Mumbai,Household,Floor Cleaner - Britannia,13,93.46,0.0,1214.98,UPI,3.8,Priya Singh,Priya Singh - priya.singh@yahoo.com,No
+TXN00306,2024-01-05,S5,pune,Beverages, Coffee - Local Brand ,9,59.51,15.0,455.25,UPI,3.5,Kavya Rao,Kavya Rao - kavya.rao@yahoo.com,Yes
+TXN00190,2024-05-23,S4,pune,Produce,Spinach - Nestle,41,42.76,10.0,1577.84,Credit Card,2.0,Suresh Sharma,Suresh Sharma - suresh.sharma@yahoo.com,No
+TXN00435,2025-05-06,S4, Chennai,Frozen Foods,Frozen Peas - Amul,45,138.4,5.0,5916.6,Cash,3.3,Priya Mehta,Priya Mehta - priya.mehta@gmail.com,No
+TXN00290,2025-02-03,S4,Chennai,Frozen Foods,Frozen Peas - Britannia,40,209.15,15.0,7111.1,Cash,4.5,Priya Sharma,Priya Sharma - priya.sharma@store.in,No
+TXN00143,2024-04-22,S4,Chennai,Snacks,Biscuits - HUL,11,45.04,0.0,495.44,Debit Card,3.7,Priya Sharma,Priya Sharma - priya.sharma@gmail.com,No
+TXN00147,2025-05-24,S3, Chennai,Beverages,Cola - ITC,17,58.02,0.0,986.34,Cash,4.0,Amit Nair,Amit Nair - amit.nair@yahoo.com,Yes
+TXN00294,2024-12-19,S4,Pune,Frozen Foods,Frozen Pizza - HUL,10,169.01,0.0,1690.1,Credit Card,4.6,  Amit Patel  ,Amit Patel - amit.patel@yahoo.com,Yes
+TXN00313,2024-04-15,S2,Mumbai,Snacks,Popcorn - HUL,28,48.77,10.0,1229.0,Wallet,4.3,  Priya Reddy  ,Priya Reddy - priya.reddy@outlook.com,No
+TXN00312,2025-01-04,S5, Bangalore,Frozen Foods,Frozen Peas - Nestle,11,199.56,10.0,1975.64,Debit Card,3.6,Amit Sharma,Amit Sharma - amit.sharma@gmail.com,No
+TXN00493,2024-08-14,S3, Mumbai,Produce,Onion - Nestle,4,39.15,0.0,156.6,Credit Card,3.2,Sneha Rao,Sneha Rao - sneha.rao@yahoo.com,No
+TXN00066,2024-09-08,S5, Pune,Snacks,Popcorn - ITC,20,32.67,0.0,653.4,Credit Card,3.6,Rohan Mehta,Rohan Mehta - rohan.mehta@yahoo.com,No
+TXN00375,2025-05-13,S5,Mumbai,Household,Detergent - Britannia,49,148.02,10.0,6527.68,Debit Card,4.2,Neha Gupta,Neha Gupta - neha.gupta@store.in,No
+TXN00035,2024-05-10,S4,Chennai,Dairy,Yogurt - Britannia,45,58.45,5.0,2498.74,UPI,2.9,Vikram Nair,Vikram Nair - vikram.nair@gmail.com,No
+TXN00343,2025-04-18,S1,Mumbai ,Bakery,Bread - Patanjali,22,44.28,0.0,974.16,UPI,2.8,Anita Verma,Anita Verma - anita.verma@yahoo.com,No
+TXN00174,2024-07-05,S4,mumbai,Dairy,Cheese - Patanjali,6,51.91,10.0,280.31,Cash,2.4,  Neha Rao  ,Neha Rao - neha.rao@outlook.com,No
+TXN00202,2024-05-10,S3,Chennai,Bakery,Cookies - Local Brand,40,63.69,15.0,2165.46,UPI,4.7,Rahul Sharma,Rahul Sharma - rahul.sharma@yahoo.com,No
+TXN00180,2025-05-25,S1, Mumbai ,Produce, Spinach - Britannia ,37,42.78,5.0,1503.72,Cash,3.2,Anita Sharma,Anita Sharma - anita.sharma@outlook.com,No
+TXN00307,2024-04-12,S5,Mumbai,Dairy, Milk - Amul ,48,49.33,0.0,2367.84,Debit Card,3.3,  Rohan Mehta  ,Rohan Mehta - rohan.mehta@outlook.com,No
+TXN00234,2024-12-30,S1,Chennai,Snacks,Chips - Local Brand,3,24.93,20.0,59.83,Cash,3.0,Vikram Singh,Vikram Singh - vikram.singh@gmail.com,No
+TXN00443,2024-07-12,S3,Mumbai,Household,Floor Cleaner - Britannia,31,173.08,10.0,4828.93,UPI,3.5,Vikram Sharma,Vikram Sharma - vikram.sharma@yahoo.com,No
+TXN00346,2024-10-15,S5,Delhi,Snacks,Chocolate - Local Brand,45,43.84,10.0,1775.52,Cash,,  Sneha Iyer  ,Sneha Iyer - sneha.iyer@outlook.com,No
+TXN00129,2024-08-12,S1,Delhi,Produce, Spinach - Patanjali ,32,38.96,5.0,1184.38,Debit Card,3.8,Sneha Gupta,Sneha Gupta - sneha.gupta@store.in,No
+TXN00278,2024-09-02,S5,Mumbai,Dairy,Cheese - Nestle,43,78.38,0.0,,UPI,4.1,Sneha Rao,Sneha Rao - sneha.rao@gmail.com,No
+TXN00005,2024-03-12,S2,Chennai ,Frozen Foods,Ice Cream - Local Brand,16,188.61,5.0,2866.87,UPI,4.0,Vikram Mehta,Vikram Mehta - vikram.mehta@gmail.com,No
+TXN00402,2025-01-31,S2,Delhi ,Produce,Spinach - Britannia,19,32.41,10.0,554.21,UPI,2.5,Neha Iyer,Neha Iyer - neha.iyer@yahoo.com,No
+TXN00362,2025-04-19,S2,Chennai,Produce, Banana - Amul ,46,39.24,5.0,1714.79,Cash,3.5,Sneha Verma,Sneha Verma - sneha.verma@gmail.com,No
+TXN00327,2024-09-28,S4,Bangalore,Produce,Apple - Patanjali,34,30.99,0.0,1053.66,Credit Card,3.1,  Rahul Gupta  ,Rahul Gupta - rahul.gupta@gmail.com,No
+TXN00431,2024-08-02,S2,Pune ,Dairy, Paneer - Britannia ,45,92.51,15.0,3538.51,Debit Card,5.0,  Vikram Mehta  ,Vikram Mehta - vikram.mehta@outlook.com,No
+TXN00468,2025-03-26,S2,Bangalore,Household,Tissue Paper - Britannia,6,111.88,5.0,637.72,Credit Card,4.3,  Kavya Rao  ,Kavya Rao - kavya.rao@store.in,No
+TXN00214,2025-04-17,S4, Chennai,Dairy,Yogurt - Local Brand,16,91.91,0.0,1470.56,Cash,4.9,Suresh Singh,Suresh Singh - suresh.singh@gmail.com,No
+TXN00331,2024-03-16,S4, Bangalore,Bakery,Bread - Amul,1,48.87,0.0,48.87,UPI,3.3,Rahul Reddy,Rahul Reddy - rahul.reddy@store.in,No
+TXN00330,2024-09-03,S1,Chennai,Dairy, Butter - Patanjali ,12,59.17,10.0,639.04,Cash,,Anita Reddy,Anita Reddy - anita.reddy@outlook.com,No
+TXN00296,2024-07-08,S4, Chennai,Dairy,Cheese - HUL,49,44.6,20.0,1748.32,Debit Card,5.0,Sneha Verma,Sneha Verma - sneha.verma@store.in,No
+TXN00417,2025-01-30,S2,Pune,Produce,Apple - Local Brand,36,24.14,5.0,825.59,Wallet,5.0,  Kavya Rao  ,Kavya Rao - kavya.rao@gmail.com,No
+TXN00407,2024-08-20,S2,chennai,Bakery,Cake - Nestle,48,56.29,5.0,2566.82,Credit Card,4.0,Priya Gupta,Priya Gupta - priya.gupta@yahoo.com,No
+TXN00103,2025-05-17,S4,Mumbai,Bakery,Cookies - Local Brand,13,51.33,0.0,667.29,Cash,2.7,Sneha Reddy,Sneha Reddy - sneha.reddy@store.in,No
+TXN00165,2024-05-02,S1,Pune,Beverages,Coffee - ITC,24,64.75,15.0,1320.9,UPI,5.0,Rahul Singh,Rahul Singh - rahul.singh@outlook.com,No
+TXN00215,2024-04-08,S1, Chennai,Beverages,Mineral Water - Patanjali,12,49.66,0.0,,Debit Card,5.0,Suresh Patel,Suresh Patel - suresh.patel@yahoo.com,No
+TXN00006,2024-01-21,S1, Delhi,Frozen Foods,Frozen Pizza - Nestle,39,166.34,,6487.26,Credit Card,,Sneha Sharma,Sneha Sharma - sneha.sharma@outlook.com,No
+TXN00420,2025-04-28,S4,Pune,Beverages,Orange Juice - Britannia,14,55.67,0.0,779.38,Cash,4.5,Neha Verma,Neha Verma - neha.verma@yahoo.com,No
+TXN00450,2024-12-30,S1,Mumbai,Frozen Foods,Ice Cream - ITC,44,106.67,15.0,3989.46,Wallet,5.0,Kavya Iyer,Kavya Iyer - kavya.iyer@outlook.com,No
+TXN00063,2024-09-27,S2,Pune ,Snacks, Popcorn - Nestle ,45,29.65,10.0,1200.82,Credit Card,3.2,Rahul Singh,Rahul Singh - rahul.singh@outlook.com,No
+TXN00335,2024-10-11,S5,Pune,Frozen Foods,Frozen Paratha - ITC,47,115.36,15.0,4608.63,UPI,4.0,Kavya Nair,Kavya Nair - kavya.nair@gmail.com,No
+TXN00301,2024-10-31,S4,Chennai,Dairy,Yogurt - Britannia,37,63.56,0.0,2351.72,Credit Card,4.9,Kavya Patel,Kavya Patel - kavya.patel@store.in,No
+TXN00018,2025-05-06,S5,Mumbai ,Snacks,Chips - Britannia,13,53.38,10.0,624.55,UPI,3.6,Neha Gupta,Neha Gupta - neha.gupta@store.in,No
+TXN00351,2024-04-09,S1, Mumbai ,Produce,Onion - Nestle,17,32.2,5.0,520.03,Cash,,  Neha Nair  ,Neha Nair - neha.nair@store.in,No
+TXN00348,2024-12-22,S5,Pune ,Snacks,Biscuits - Local Brand,8,38.91,5.0,295.72,Cash,5.0,  Amit Iyer  ,Amit Iyer - amit.iyer@outlook.com,No
+TXN00086,2025-02-22,S1, Delhi,Snacks,Namkeen - Nestle,39,41.74,5.0,1546.47,Wallet,2.2,  Vikram Singh  ,Vikram Singh - vikram.singh@outlook.com,No
+TXN00258,2024-12-14,S4,Bangalore,Beverages,Green Tea - Nestle,30,75.11,0.0,2253.3,Debit Card,4.8,  Kavya Nair  ,Kavya Nair - kavya.nair@gmail.com,No
+TXN00366,2024-09-24,S4,Pune,Dairy,Paneer - Britannia,15,53.61,0.0,804.15,Credit Card,3.0,Anita Nair,Anita Nair - anita.nair@gmail.com,No
+TXN00386,2025-02-23,S1, Pune,Household,Floor Cleaner - Britannia,18,138.27,0.0,2488.86,UPI,3.1,Rahul Reddy,Rahul Reddy - rahul.reddy@store.in,No
+TXN00316,2024-12-11,S1,Mumbai ,Produce,Spinach - Patanjali,39,35.3,0.0,,Cash,3.8,Amit Nair,Amit Nair - amit.nair@outlook.com,No
+TXN00390,2024-07-10,S2,Mumbai,Produce,Banana - Local Brand,14,45.73,5.0,608.21,UPI,2.6,Neha Mehta,Neha Mehta - neha.mehta@outlook.com,No
+TXN00340,2025-03-28,S4,Pune,Produce,Onion - HUL,21,24.08,5.0,480.4,Cash,3.5,Neha Gupta,Neha Gupta - neha.gupta@store.in,No
+TXN00285,2025-05-20,S4,Bangalore ,Snacks,Biscuits - Nestle,18,41.86,15.0,640.46,Debit Card,3.6,  Rohan Sharma  ,Rohan Sharma - rohan.sharma@outlook.com,No
+TXN00163,2024-07-21,S5, Pune,Snacks,Popcorn - Britannia,35,54.21,,,Debit Card,3.7,  Rohan Verma  ,Rohan Verma - rohan.verma@gmail.com,No
+TXN00324,2024-04-27,S2,Delhi,Dairy,Butter - Britannia,31,92.25,10.0,2573.78,UPI,3.6,Rahul Patel,Rahul Patel - rahul.patel@gmail.com,No
+TXN00325,2025-05-02,S5,Pune,Bakery,Bun - Nestle,21,52.34,15.0,934.27,UPI,4.1,Suresh Gupta,Suresh Gupta - suresh.gupta@outlook.com,No
+TXN00148,2025-01-20,S4,Delhi,Produce,Spinach - Britannia,33,22.65,0.0,747.45,Debit Card,,Suresh Gupta,Suresh Gupta - suresh.gupta@gmail.com,No
+TXN00030,2025-05-25,S3,Mumbai,Produce,Onion - HUL,28,30.06,0.0,841.68,Credit Card,4.1,  Amit Patel  ,Amit Patel - amit.patel@store.in,No
+TXN00108,2025-04-05,S5,Delhi,Beverages,Cola - Patanjali,48,39.75,10.0,1717.2,Debit Card,,Rahul Patel,Rahul Patel - rahul.patel@outlook.com,No
+TXN00464,2024-03-31,S5,Chennai ,Produce, Onion - Nestle ,45,35.94,5.0,1536.44,Credit Card,5.0,  Neha Gupta  ,Neha Gupta - neha.gupta@outlook.com,No
+TXN00496,2025-02-05,S5,Mumbai,Dairy, Cheese - Local Brand ,41,59.88,10.0,2209.57,Debit Card,3.7,Suresh Rao,Suresh Rao - suresh.rao@outlook.com,No
+TXN00426,2024-07-04,S4,Delhi,Bakery,Cake - Amul,40,35.18,10.0,1266.48,Debit Card,5.0,  Neha Singh  ,Neha Singh - neha.singh@store.in,No
+TXN00251,2025-04-21,S2,Delhi,Frozen Foods,Frozen Paratha - Britannia,4,123.63,10.0,445.07,Cash,,Rohan Nair,Rohan Nair - rohan.nair@yahoo.com,No
+TXN00136,2025-02-14,S4,Bangalore,Household,Tissue Paper - Amul,8,94.75,10.0,682.2,Cash,2.9,  Rahul Patel  ,Rahul Patel - rahul.patel@outlook.com,No
+TXN00261,2024-06-29,S2,Mumbai,Bakery, Croissant - ITC ,25,45.15,15.0,959.44,Debit Card,4.1,  Amit Singh  ,Amit Singh - amit.singh@outlook.com,No
+TXN00118,2024-06-08,S1,Bangalore,Snacks,Popcorn - ITC,30,28.19,5.0,803.42,Cash,2.6,  Amit Gupta  ,Amit Gupta - amit.gupta@gmail.com,No
+TXN00188,2024-10-24,S2,Mumbai,Snacks, Popcorn - HUL ,32,49.87,10.0,1436.26,Credit Card,3.3,Priya Mehta,Priya Mehta - priya.mehta@outlook.com,No
+TXN00416,2024-04-08,S2,Chennai,Dairy,Cheese - Local Brand,32,43.3,0.0,1385.6,UPI,2.9,  Rahul Iyer  ,Rahul Iyer - rahul.iyer@gmail.com,No
+TXN00166,2025-02-04,S2, Bangalore,Household,Tissue Paper - Nestle,49,154.44,0.0,7567.56,Wallet,3.2,Sneha Verma,Sneha Verma - sneha.verma@outlook.com,Yes
+TXN00224,2024-05-14,S5,Pune,Beverages, Green Tea - Patanjali ,42,71.6,,3007.2,UPI,4.5,Vikram Nair,Vikram Nair - vikram.nair@gmail.com,No
+TXN00445,2024-01-29,S5,Chennai ,Beverages,Cola - HUL,39,47.75,,1862.25,Cash,2.5,Vikram Mehta,Vikram Mehta - vikram.mehta@store.in,No
+TXN00286,2024-02-05,S3,Chennai ,Beverages,Green Tea - Nestle,21,58.56,5.0,1168.27,Wallet,2.5,Kavya Iyer,Kavya Iyer - kavya.iyer@yahoo.com,No
+TXN00492,2024-08-16,S2,Bangalore ,Produce,Banana - Amul,32,28.72,5.0,873.09,Debit Card,3.1,Rohan Verma,Rohan Verma - rohan.verma@store.in,No
+TXN00477,2024-12-13,S3, Delhi,Dairy,Yogurt - Nestle,18,73.82,0.0,,Debit Card,3.5,Anita Nair,Anita Nair - anita.nair@yahoo.com,No
+TXN00478,2024-07-08,S5, Mumbai ,Produce,Banana - HUL,15,33.27,5.0,474.1,Credit Card,5.0,Amit Patel,Amit Patel - amit.patel@store.in,No
+TXN00481,2025-05-22,S5,Pune,Bakery,Cake - Patanjali,9,63.43,0.0,570.87,Wallet,5.0,Rohan Patel,Rohan Patel - rohan.patel@outlook.com,No
+TXN00418,2024-01-25,S2,Bangalore ,Household,Floor Cleaner - Nestle,13,97.73,10.0,1143.44,Wallet,4.1,  Priya Reddy  ,Priya Reddy - priya.reddy@store.in,No
+TXN00007,2024-05-01,S4,Delhi ,Dairy,Butter - ITC,4,84.13,0.0,336.52,Credit Card,,Rahul Gupta,Rahul Gupta - rahul.gupta@yahoo.com,No
+TXN00423,2024-02-08,S2,pune,Snacks,Namkeen - Patanjali,15,50.81,0.0,762.15,UPI,3.4,  Rohan Nair  ,Rohan Nair - rohan.nair@outlook.com,No
+TXN00012,2024-03-28,S4,Pune,Frozen Foods,Frozen Peas - Britannia,45,146.11,0.0,6574.95,UPI,4.7,  Rahul Sharma  ,Rahul Sharma - rahul.sharma@yahoo.com,No
+TXN00193,2024-10-30,S5,Chennai,Beverages, Coffee - Amul ,19,36.11,10.0,617.48,Credit Card,5.0,  Rohan Sharma  ,Rohan Sharma - rohan.sharma@outlook.com,Yes
+TXN00093,2024-05-14,S5,Pune,Dairy, Milk - Amul ,18,73.58,5.0,1258.22,Cash,1.6,Suresh Verma,Suresh Verma - suresh.verma@store.in,No
+TXN00222,2025-05-18,S4,Pune,Dairy,Paneer - Local Brand,3,48.88,15.0,,UPI,4.8,Neha Rao,Neha Rao - neha.rao@gmail.com,No
+TXN00111,2025-04-29,S2,Mumbai,Dairy,Yogurt - Local Brand,19,70.9,,1347.1,Debit Card,3.4,Neha Nair,Neha Nair - neha.nair@store.in,No
+TXN00239,2024-10-03,S4,bangalore,Beverages, Orange Juice - Amul ,35,71.69,,2509.15,UPI,4.4,  Kavya Patel  ,Kavya Patel - kavya.patel@store.in,No
+TXN00439,2024-06-22,S4, Delhi,Snacks,Biscuits - Local Brand,8,24.95,5.0,189.62,Debit Card,3.0,Neha Iyer,Neha Iyer - neha.iyer@outlook.com,No
+TXN00476,2025-01-21,S3, Delhi,Beverages, Coffee - Nestle ,42,49.87,0.0,2094.54,Credit Card,3.3,  Anita Iyer  ,Anita Iyer - anita.iyer@gmail.com,No
+TXN00059,2025-02-05,S4,Pune,Dairy,Butter - Amul,39,69.71,5.0,2582.76,Cash,3.4,Sneha Iyer,Sneha Iyer - sneha.iyer@gmail.com,No
+TXN00381,2025-05-15,S3,mumbai,Beverages,Cola - ITC,5,51.72,,258.6,UPI,4.4,Kavya Reddy,Kavya Reddy - kavya.reddy@store.in,Yes
+TXN00079,2024-12-09,S5,Mumbai,Frozen Foods,Ice Cream - Local Brand,23,170.39,5.0,3723.02,Credit Card,,  Priya Gupta  ,Priya Gupta - priya.gupta@outlook.com,No
+TXN00380,2024-07-14,S1,bangalore,Bakery,Croissant - Patanjali,47,59.32,15.0,2369.83,UPI,4.5,Suresh Sharma,Suresh Sharma - suresh.sharma@gmail.com,Yes
+TXN00248,2024-06-20,S5,Mumbai,Snacks, Biscuits - Local Brand ,20,31.61,20.0,505.76,Cash,3.3,Sneha Patel,Sneha Patel - sneha.patel@outlook.com,No
+TXN00208,2025-02-25,S3,Delhi,Produce,Apple - Nestle,4,43.61,,174.44,Cash,3.0,Priya Verma,Priya Verma - priya.verma@store.in,No
+TXN00102,2024-08-05,S3,Mumbai,Dairy, Milk - HUL ,18,48.0,,864.0,Debit Card,5.0,Vikram Mehta,Vikram Mehta - vikram.mehta@yahoo.com,No
+TXN00345,2024-12-06,S4,bangalore,Bakery,Croissant - Nestle,35,28.01,0.0,980.35,Cash,3.1,  Sneha Singh  ,Sneha Singh - sneha.singh@store.in,No
+TXN00393,2024-07-08,S4,Chennai,Beverages,Coffee - Nestle,44,43.78,5.0,1830.0,UPI,3.5,Sneha Patel,Sneha Patel - sneha.patel@store.in,No
+TXN00424,2024-04-18,S5,Mumbai,Bakery,Cake - Local Brand,47,35.09,20.0,1319.38,UPI,5.0,Amit Patel,Amit Patel - amit.patel@gmail.com,No
+TXN00489,2024-03-20,S4,Chennai,Beverages,Mineral Water - Patanjali,11,37.11,5.0,387.8,Cash,4.1,Rahul Verma,Rahul Verma - rahul.verma@yahoo.com,No
+TXN00257,2024-10-06,S4,Chennai,Snacks,Biscuits - Local Brand,2,26.57,0.0,53.14,Credit Card,5.0,Rohan Sharma,Rohan Sharma - rohan.sharma@gmail.com,No
+TXN00181,2024-05-26,S5,pune,Snacks,Chocolate - Nestle,4,51.02,0.0,204.08,UPI,4.8,  Vikram Gupta  ,Vikram Gupta - vikram.gupta@gmail.com,No
+TXN00437,2024-08-17,S1,Bangalore,Snacks,Biscuits - Britannia,31,29.69,,920.39,Credit Card,2.2,  Kavya Nair  ,Kavya Nair - kavya.nair@outlook.com,No
+TXN00019,2025-02-17,S5,Mumbai,Bakery,Croissant - ITC,26,55.95,10.0,1309.23,UPI,3.3,  Vikram Gupta  ,Vikram Gupta - vikram.gupta@outlook.com,No
+TXN00041,2024-11-11,S4,Bangalore ,Produce,Tomato - Patanjali,8,26.77,5.0,203.45,UPI,3.7,Neha Singh,Neha Singh - neha.singh@gmail.com,No
+TXN00422,2024-05-23,S3,chennai,Frozen Foods, Frozen Pizza - HUL ,48,227.25,0.0,10908.0,Credit Card,3.3,Rahul Rao,Rahul Rao - rahul.rao@outlook.com,No
+TXN00470,2024-08-07,S4,Pune ,Bakery,Croissant - Nestle,44,61.03,,2685.32,Cash,3.5,Amit Mehta,Amit Mehta - amit.mehta@store.in,No
+TXN00042,2024-01-14,S2,Chennai,Dairy,Butter - ITC,8,64.68,10.0,465.7,Credit Card,5.0,Amit Patel,Amit Patel - amit.patel@yahoo.com,Yes
+TXN00160,2025-02-19,S2,Chennai ,Produce, Onion - Local Brand ,8,24.87,10.0,179.06,UPI,3.3,Rahul Verma,Rahul Verma - rahul.verma@outlook.com,No
+TXN00287,2024-01-20,S4, Pune,Snacks,Chips - ITC,28,33.39,,934.92,UPI,4.0,Vikram Iyer,Vikram Iyer - vikram.iyer@outlook.com,No
+TXN00133,2024-09-15,S1,Pune,Bakery,Bun - Local Brand,45,43.47,0.0,1956.15,Debit Card,2.8,Neha Singh,Neha Singh - neha.singh@store.in,No
+TXN00291,2025-04-15,S1,Mumbai ,Dairy, Butter - Britannia ,23,77.2,15.0,1509.26,Wallet,4.5,Vikram Verma,Vikram Verma - vikram.verma@gmail.com,No
+TXN00497,2024-02-16,S3,Mumbai,Snacks,Biscuits - Amul,19,48.63,0.0,923.97,UPI,3.4,  Suresh Reddy  ,Suresh Reddy - suresh.reddy@yahoo.com,No
+TXN00342,2024-08-05,S3,Bangalore,Frozen Foods, Ice Cream - Amul ,17,222.81,15.0,3219.6,UPI,3.5,Neha Singh,Neha Singh - neha.singh@gmail.com,No
+TXN00081,2025-04-16,S2,Delhi,Beverages,Coffee - HUL,8,59.87,15.0,407.12,Debit Card,3.5,Vikram Sharma,Vikram Sharma - vikram.sharma@store.in,No
+TXN00047,2025-01-01,S2,Delhi,Frozen Foods, Ice Cream - HUL ,10,210.52,10.0,1894.68,Credit Card,4.1,Amit Verma,Amit Verma - amit.verma@outlook.com,No
+TXN00457,2024-05-11,S3,Chennai,Produce, Tomato - Local Brand ,38,46.72,5.0,1686.59,Cash,3.7,Priya Mehta,Priya Mehta - priya.mehta@gmail.com,No
+TXN00094,2024-07-19,S1,Delhi,Bakery,Bread - ITC,17,40.15,0.0,682.55,Wallet,3.8,Priya Iyer,Priya Iyer - priya.iyer@store.in,No
+TXN00447,2025-02-25,S2,Bangalore,Beverages,Green Tea - ITC,2,59.43,10.0,106.97,Debit Card,4.4,  Amit Sharma  ,Amit Sharma - amit.sharma@gmail.com,No
+TXN00082,2024-03-03,S3,Pune,Produce, Banana - HUL ,8,26.84,0.0,214.72,Wallet,3.3,  Rahul Nair  ,Rahul Nair - rahul.nair@outlook.com,No
+TXN00373,2024-10-28,S5,Delhi,Bakery,Cake - Nestle,5,47.08,15.0,200.09,Cash,2.0,  Suresh Iyer  ,Suresh Iyer - suresh.iyer@yahoo.com,No
+TXN00326,2024-08-24,S5,Bangalore ,Dairy, Butter - Nestle ,47,58.59,0.0,2753.73,Cash,4.7,Kavya Nair,Kavya Nair - kavya.nair@gmail.com,No
+TXN00452,2025-05-14,S5, Mumbai ,Produce,Spinach - Amul,42,41.04,5.0,1637.5,UPI,3.3,  Anita Verma  ,Anita Verma - anita.verma@gmail.com,No
+TXN00455,2024-08-04,S4,Mumbai,Dairy,Milk - Britannia,30,62.8,20.0,1507.2,Wallet,3.4,Amit Iyer,Amit Iyer - amit.iyer@gmail.com,No
+TXN00376,2024-02-04,S4,pune,Bakery, Bread - ITC ,23,33.34,20.0,613.46,Credit Card,2.8,Neha Verma,Neha Verma - neha.verma@outlook.com,No
+TXN00226,2025-02-04,S2,Pune,Produce,Onion - Patanjali,26,33.44,20.0,695.55,Wallet,,Suresh Reddy,Suresh Reddy - suresh.reddy@outlook.com,No
+TXN00140,2025-01-08,S2, Pune,Snacks,Namkeen - Nestle,43,39.33,15.0,1437.51,UPI,4.7,  Vikram Patel  ,Vikram Patel - vikram.patel@yahoo.com,No
+TXN00107,2024-01-15,S5,Delhi,Beverages,Coffee - Amul,21,59.55,15.0,1062.97,Debit Card,3.5,Vikram Patel,Vikram Patel - vikram.patel@yahoo.com,No
+TXN00233,2024-08-17,S2,Mumbai,Dairy, Paneer - Britannia ,5,90.12,15.0,383.01,Credit Card,4.7,Vikram Verma,Vikram Verma - vikram.verma@store.in,No
+TXN00292,2024-05-22,S5, Delhi,Frozen Foods,Nuggets - Nestle,3,217.38,10.0,586.93,Debit Card,5.0,Priya Sharma,Priya Sharma - priya.sharma@gmail.com,Yes
+TXN00205,2024-02-23,S2,mumbai,Beverages, Cola - HUL ,8,79.75,15.0,542.3,Credit Card,4.3,  Amit Nair  ,Amit Nair - amit.nair@store.in,No
+TXN00332,2024-06-02,S3, Bangalore,Snacks, Biscuits - Britannia ,22,35.39,5.0,739.65,Credit Card,5.0,Priya Iyer,Priya Iyer - priya.iyer@gmail.com,No
+TXN00198,2024-01-09,S3,Bangalore,Snacks, Namkeen - Britannia ,1,49.71,,49.71,Cash,5.0,Sneha Reddy,Sneha Reddy - sneha.reddy@yahoo.com,No
+TXN00096,2024-02-17,S4,Mumbai,Beverages,Green Tea - Britannia,39,46.09,10.0,1617.76,UPI,2.1,Kavya Nair,Kavya Nair - kavya.nair@store.in,Yes
+TXN00123,2024-11-26,S4,Bangalore,Dairy,Cheese - ITC,44,76.45,10.0,3027.42,Cash,4.9,Amit Sharma,Amit Sharma - amit.sharma@gmail.com,No
+TXN00024,2025-04-04,S4,Pune,Dairy, Yogurt - ITC ,8,81.11,10.0,583.99,Cash,4.1,  Rahul Nair  ,Rahul Nair - rahul.nair@outlook.com,No
+TXN00014,2024-04-09,S2,Mumbai,Produce,Apple - Nestle,49,22.77,0.0,1115.73,Debit Card,4.1,  Priya Nair  ,Priya Nair - priya.nair@outlook.com,No
+TXN00062,2024-09-26,S5,Mumbai,Dairy,Milk - Local Brand,13,64.17,,834.21,Wallet,3.0,Kavya Rao,Kavya Rao - kavya.rao@yahoo.com,No
+TXN00299,2024-11-09,S2,Bangalore,Bakery,Bun - ITC,5,46.84,0.0,234.2,Wallet,3.5,Rahul Rao,Rahul Rao - rahul.rao@gmail.com,No
+TXN00040,2025-01-22,S2,Delhi,Beverages,Cola - HUL,38,76.71,10.0,2623.48,Credit Card,4.4,  Vikram Singh  ,Vikram Singh - vikram.singh@outlook.com,No
+TXN00361,2024-06-08,S2,Pune,Household,Tissue Paper - Nestle,35,101.55,0.0,3554.25,Wallet,4.4,  Rohan Singh  ,Rohan Singh - rohan.singh@gmail.com,No
+TXN00259,2025-05-11,S5,Pune,Household, Tissue Paper - ITC ,3,134.09,0.0,402.27,Cash,4.2,Kavya Rao,Kavya Rao - kavya.rao@outlook.com,No
+TXN00243,2025-05-30,S3,Bangalore,Household,Garbage Bags - Local Brand,26,143.74,0.0,3737.24,UPI,,Amit Reddy,Amit Reddy - amit.reddy@gmail.com,No
+TXN00173,2024-05-03,S5,Chennai,Snacks,Namkeen - Local Brand,17,55.9,,,Cash,3.3,  Sneha Mehta  ,Sneha Mehta - sneha.mehta@yahoo.com,No
+TXN00099,2024-04-08,S5,Delhi ,Dairy,Milk - HUL,29,60.21,0.0,1746.09,UPI,3.2,  Suresh Patel  ,Suresh Patel - suresh.patel@store.in,No
+TXN00293,2024-04-01,S4, Pune,Snacks,Biscuits - HUL,40,55.23,0.0,2209.2,Cash,4.6,Rohan Mehta,Rohan Mehta - rohan.mehta@gmail.com,No
+TXN00245,2024-02-18,S1, Pune,Snacks,Chocolate - HUL,34,36.6,10.0,1119.96,UPI,4.6,  Neha Reddy  ,Neha Reddy - neha.reddy@gmail.com,No
+TXN00352,2024-06-28,S1,Bangalore,Snacks,Chocolate - Nestle,26,47.51,,1235.26,UPI,1.9,Amit Singh,Amit Singh - amit.singh@store.in,No
+TXN00377,2024-03-30,S1,Delhi,Bakery,Bread - Local Brand,25,34.2,0.0,855.0,Wallet,3.7,  Amit Sharma  ,Amit Sharma - amit.sharma@outlook.com,No
+TXN00284,2025-06-08,S1,Pune,Dairy,Butter - Local Brand,27,54.21,5.0,1390.49,Debit Card,3.1,  Anita Nair  ,Anita Nair - anita.nair@store.in,No
+TXN00427,2025-02-01,S2,Chennai,Snacks,Popcorn - HUL,16,32.83,15.0,446.49,Cash,3.7,  Rohan Rao  ,Rohan Rao - rohan.rao@outlook.com,No
+TXN00262,2024-04-08,S5, Chennai,Produce,Apple - Amul,20,29.59,0.0,591.8,UPI,4.4,Vikram Singh,Vikram Singh - vikram.singh@outlook.com,No
+TXN00128,2024-07-08,S5, Mumbai,Produce,Tomato - HUL,9,37.71,,339.39,Cash,4.9,  Suresh Sharma  ,Suresh Sharma - suresh.sharma@store.in,No
+TXN00083,2024-05-18,S4,Chennai,Produce,Onion - Local Brand,26,26.63,10.0,623.14,Wallet,5.0,  Rahul Iyer  ,Rahul Iyer - rahul.iyer@store.in,No
+TXN00459,2024-09-08,S4,Mumbai,Produce,Spinach - HUL,5,28.31,5.0,134.47,Cash,3.2,  Rahul Singh  ,Rahul Singh - rahul.singh@outlook.com,No
+TXN00269,2024-05-07,S3,Delhi,Dairy,Butter - Patanjali,46,78.0,20.0,2870.4,UPI,4.5,  Anita Verma  ,Anita Verma - anita.verma@outlook.com,No
+TXN00028,2025-04-19,S5,mumbai,Beverages,Cola - Patanjali,38,37.36,10.0,1277.71,Wallet,3.8,  Neha Rao  ,Neha Rao - neha.rao@yahoo.com,No
+TXN00090,2024-08-18,S2, Mumbai,Household,Detergent - Local Brand,25,97.56,0.0,2439.0,Debit Card,1.8,Kavya Sharma,Kavya Sharma - kavya.sharma@store.in,No
+TXN00389,2025-04-01,S5,Bangalore,Produce,Spinach - HUL,14,42.37,0.0,593.18,Credit Card,3.1,Neha Verma,Neha Verma - neha.verma@outlook.com,No
+TXN00074,2024-02-10,S5,Pune,Produce,Spinach - Patanjali,17,29.96,10.0,458.39,Credit Card,3.9,Neha Iyer,Neha Iyer - neha.iyer@gmail.com,No
+TXN00186,2024-05-30,S4,Bangalore,Bakery,Cake - Nestle,36,45.73,10.0,1481.65,UPI,3.1,Suresh Nair,Suresh Nair - suresh.nair@outlook.com,No
+TXN00172,2024-07-19,S3, Bangalore,Snacks,Popcorn - Britannia,28,28.07,5.0,746.66,Wallet,4.0,Neha Gupta,Neha Gupta - neha.gupta@gmail.com,No
+TXN00162,2025-03-14,S5,Bangalore,Bakery, Cookies - Amul ,49,44.71,0.0,2190.79,Credit Card,5.0,Rohan Singh,Rohan Singh - rohan.singh@store.in,No
+TXN00070,2024-08-04,S1,Delhi,Household,Detergent - Local Brand,33,89.46,5.0,2804.57,Cash,4.1,  Rohan Mehta  ,Rohan Mehta - rohan.mehta@store.in,No
+TXN00219,2024-06-09,S3,Delhi,Snacks,Popcorn - Patanjali,45,46.07,10.0,1865.84,UPI,5.0,Kavya Verma,Kavya Verma - kavya.verma@gmail.com,No
+TXN00092,2024-01-28,S2,mumbai,Dairy,Milk - Britannia,2,86.68,0.0,173.36,UPI,3.8,Sneha Verma,Sneha Verma - sneha.verma@store.in,No
+TXN00271,2024-11-18,S3,Chennai,Dairy,Cheese - Amul,46,72.92,0.0,3354.32,Debit Card,3.8,Suresh Gupta,Suresh Gupta - suresh.gupta@yahoo.com,No
+TXN00421,2024-05-30,S4,Mumbai,Snacks,Biscuits - Britannia,37,48.19,20.0,1426.42,Credit Card,3.6,  Vikram Patel  ,Vikram Patel - vikram.patel@yahoo.com,No
+TXN00379,2024-04-24,S5, Chennai,Household,Garbage Bags - Local Brand,26,144.3,,3751.8,UPI,3.8,  Anita Rao  ,Anita Rao - anita.rao@gmail.com,No
+TXN00126,2025-04-17,S5,Bangalore,Frozen Foods,Frozen Peas - HUL,34,163.64,0.0,5563.76,Debit Card,5.0,Vikram Reddy,Vikram Reddy - vikram.reddy@store.in,No
+TXN00371,2025-01-31,S1,Delhi ,Snacks,Popcorn - Amul,35,32.51,10.0,1024.06,Credit Card,4.9,Kavya Gupta,Kavya Gupta - kavya.gupta@store.in,No
+TXN00275,2025-01-20,S2, Pune,Dairy,Paneer - Nestle,5,95.71,0.0,478.55,Wallet,3.0,Rohan Mehta,Rohan Mehta - rohan.mehta@store.in,No
+TXN00060,2024-06-10,S1,Pune,Produce, Onion - Amul ,22,26.25,,577.5,Debit Card,5.0,Sneha Gupta,Sneha Gupta - sneha.gupta@gmail.com,No
+TXN00121,2024-01-28,S4,Chennai ,Snacks, Namkeen - Patanjali ,47,48.49,0.0,2279.03,Credit Card,4.9,Rahul Sharma,Rahul Sharma - rahul.sharma@yahoo.com,No
+TXN00013,2025-01-07,S3,Bangalore,Produce,Apple - Britannia,17,26.35,5.0,425.55,UPI,3.3,Neha Iyer,Neha Iyer - neha.iyer@outlook.com,No
+TXN00387,2024-10-03,S5,Delhi,Bakery, Croissant - ITC ,4,35.23,15.0,119.78,Debit Card,2.9,Priya Verma,Priya Verma - priya.verma@store.in,No
+TXN00225,2024-07-13,S3, Mumbai,Household,Tissue Paper - Local Brand,9,183.82,,1654.38,Credit Card,5.0,  Rohan Nair  ,Rohan Nair - rohan.nair@store.in,No
+TXN00237,2024-01-27,S5, Bangalore,Frozen Foods,Frozen Paratha - Patanjali,49,125.01,,6125.49,Wallet,3.6,Rohan Singh,Rohan Singh - rohan.singh@yahoo.com,No
+TXN00500,2025-06-09,S1,Mumbai ,Produce,Apple - HUL,22,36.65,15.0,685.35,Cash,4.5,  Rohan Nair  ,Rohan Nair - rohan.nair@gmail.com,No
+TXN00315,2024-02-27,S5, Bangalore,Household,Detergent - Local Brand,12,185.69,,2228.28,Debit Card,4.0,Neha Mehta,Neha Mehta - neha.mehta@gmail.com,No
+TXN00158,2024-05-09,S4,Bangalore,Dairy,Cheese - Britannia,37,42.07,10.0,1400.93,Credit Card,4.4,  Amit Verma  ,Amit Verma - amit.verma@store.in,No
+TXN00365,2025-03-02,S5,Chennai ,Dairy,Paneer - Amul,8,79.7,0.0,637.6,Wallet,5.0,Anita Gupta,Anita Gupta - anita.gupta@gmail.com,No
+TXN00187,2025-02-18,S4,Delhi,Beverages,Orange Juice - Britannia,13,63.5,0.0,825.5,Debit Card,4.2,  Sneha Patel  ,Sneha Patel - sneha.patel@yahoo.com,No
+TXN00268,2024-11-18,S3,Bangalore,Bakery,Cookies - Amul,15,54.59,5.0,777.91,Wallet,5.0,Anita Rao,Anita Rao - anita.rao@gmail.com,No
+TXN00231,2024-01-22,S4,Chennai,Household,Detergent - Amul,3,115.13,10.0,310.85,Credit Card,3.7,Vikram Iyer,Vikram Iyer - vikram.iyer@gmail.com,No
+TXN00408,2024-03-16,S2,Bangalore,Frozen Foods,Nuggets - Nestle,44,188.42,5.0,7875.96,Cash,3.1,  Rohan Rao  ,Rohan Rao - rohan.rao@outlook.com,No
+TXN00374,2024-09-09,S3,Bangalore,Snacks,Chips - Patanjali,22,45.87,0.0,1009.14,Cash,5.0,Priya Singh,Priya Singh - priya.singh@outlook.com,No
+TXN00448,2024-12-04,S1,Delhi,Produce,Spinach - Local Brand,8,31.09,,248.72,Wallet,5.0,Suresh Mehta,Suresh Mehta - suresh.mehta@outlook.com,No
+TXN00344,2025-03-07,S5,Chennai ,Beverages, Green Tea - Local Brand ,38,79.36,5.0,2864.9,UPI,3.2,Rohan Mehta,Rohan Mehta - rohan.mehta@yahoo.com,No
+TXN00209,2024-04-13,S3,Pune ,Beverages,Mineral Water - Amul,38,62.65,0.0,2380.7,UPI,4.5,Rahul Verma,Rahul Verma - rahul.verma@outlook.com,No
+TXN00089,2025-05-04,S4, Pune,Household,Garbage Bags - Nestle,28,128.03,0.0,3584.84,UPI,3.8,Amit Verma,Amit Verma - amit.verma@yahoo.com,No
+TXN00463,2024-06-15,S2,Mumbai,Snacks,Popcorn - Patanjali,43,25.31,0.0,1088.33,UPI,5.0,  Suresh Gupta  ,Suresh Gupta - suresh.gupta@yahoo.com,No
+TXN00132,2024-10-09,S1,delhi,Snacks,Biscuits - Amul,33,25.24,0.0,832.92,Cash,3.3,  Amit Sharma  ,Amit Sharma - amit.sharma@outlook.com,No
+TXN00125,2024-12-13,S2,Mumbai,Beverages,Mineral Water - ITC,11,69.56,5.0,726.9,Cash,5.0,Rahul Gupta,Rahul Gupta - rahul.gupta@gmail.com,Yes
+TXN00175,2024-11-21,S3,Bangalore,Dairy,Milk - ITC,19,74.08,5.0,1337.14,UPI,5.0,Amit Mehta,Amit Mehta - amit.mehta@store.in,No
+TXN00415,2024-03-09,S1, Delhi,Snacks,Biscuits - ITC,35,43.73,10.0,1377.5,Cash,3.2,  Neha Patel  ,Neha Patel - neha.patel@store.in,No
+TXN00192,2024-01-02,S2,Delhi,Dairy,Yogurt - Britannia,46,50.96,0.0,2344.16,Cash,3.2,Kavya Patel,Kavya Patel - kavya.patel@outlook.com,No
+TXN00015,2024-05-10,S4,Delhi,Dairy,Milk - Britannia,37,89.9,0.0,3326.3,Debit Card,5.0,Anita Singh,Anita Singh - anita.singh@store.in,No
+TXN00398,2024-08-04,S3,Mumbai,Dairy,Paneer - ITC,44,63.28,5.0,2645.1,UPI,4.6,Rahul Reddy,Rahul Reddy - rahul.reddy@gmail.com,No
+TXN00246,2025-05-26,S1,Delhi,Household,Tissue Paper - ITC,23,155.96,20.0,2869.66,Debit Card,2.2,Rahul Iyer,Rahul Iyer - rahul.iyer@gmail.com,No
+TXN00124,2025-05-20,S2, Chennai,Frozen Foods,Ice Cream - HUL,35,238.0,10.0,7497.0,Cash,3.6,Anita Sharma,Anita Sharma - anita.sharma@store.in,No
+TXN00139,2024-08-21,S4, Delhi,Dairy, Butter - Britannia ,1,55.69,15.0,47.34,Credit Card,2.8,Neha Sharma,Neha Sharma - neha.sharma@outlook.com,No
+TXN00112,2025-02-10,S3,Bangalore,Frozen Foods,Ice Cream - Amul,15,116.07,0.0,1741.05,UPI,3.7,Kavya Sharma,Kavya Sharma - kavya.sharma@outlook.com,No
+TXN00052,2024-07-24,S5,Mumbai,Bakery,Bun - Patanjali,29,48.38,5.0,1332.87,Cash,3.5,Kavya Nair,Kavya Nair - kavya.nair@yahoo.com,No
+TXN00113,2024-08-18,S5, Bangalore,Dairy,Milk - HUL,9,43.89,,395.01,UPI,4.0,Vikram Verma,Vikram Verma - vikram.verma@outlook.com,No
+TXN00010,2024-11-26,S5,Chennai,Snacks,Namkeen - Patanjali,40,38.98,0.0,1559.2,UPI,3.5,  Anita Mehta  ,Anita Mehta - anita.mehta@yahoo.com,No
+TXN00020,2025-01-20,S3,Bangalore,Dairy,Butter - Nestle,14,49.05,15.0,583.69,Cash,2.9,Vikram Reddy,Vikram Reddy - vikram.reddy@yahoo.com,No
+TXN00017,2024-12-09,S3,Mumbai,Produce, Apple - Britannia ,19,34.42,5.0,621.28,UPI,4.1,Rohan Mehta,Rohan Mehta - rohan.mehta@outlook.com,No
+TXN00429,2024-05-12,S2,Mumbai,Snacks, Biscuits - Nestle ,16,26.65,10.0,383.76,Debit Card,2.5,  Vikram Singh  ,Vikram Singh - vikram.singh@gmail.com,No
+TXN00001,2024-04-12,S2,Mumbai,Beverages, Cola - HUL ,7,71.92,0.0,503.44,Cash,3.8,Kavya Gupta,Kavya Gupta - kavya.gupta@gmail.com,No
+TXN00350,2025-06-05,S5, Chennai,Bakery,Croissant - Amul,17,44.39,0.0,754.63,Cash,4.2,Suresh Rao,Suresh Rao - suresh.rao@yahoo.com,No
+TXN00106,2024-07-25,S1, Mumbai ,Household,Detergent - Britannia,30,99.24,10.0,2679.48,Debit Card,3.0,Amit Rao,Amit Rao - amit.rao@outlook.com,No
+TXN00276,2024-04-13,S3,bangalore,Snacks,Chips - Amul,6,27.41,0.0,164.46,Cash,4.5,Rohan Patel,Rohan Patel - rohan.patel@yahoo.com,No
+TXN00401,2024-12-07,S5,Delhi,Bakery,Croissant - Nestle,35,44.9,20.0,,UPI,,  Suresh Mehta  ,Suresh Mehta - suresh.mehta@gmail.com,No
+TXN00483,2025-02-12,S2,Delhi,Produce,Banana - Local Brand,10,41.43,5.0,393.58,Debit Card,4.9,Kavya Singh,Kavya Singh - kavya.singh@gmail.com,No
+TXN00434,2024-03-14,S3,Delhi,Dairy, Yogurt - Britannia ,32,42.79,5.0,1300.82,Cash,2.6,Anita Sharma,Anita Sharma - anita.sharma@gmail.com,No
+TXN00425,2024-02-11,S5,Mumbai,Snacks, Biscuits - Patanjali ,4,38.4,10.0,138.24,Credit Card,4.0,Rahul Reddy,Rahul Reddy - rahul.reddy@store.in,No
+TXN00071,2024-07-06,S2,bangalore,Dairy, Yogurt - Patanjali ,1,75.83,0.0,75.83,Wallet,3.9,Sneha Rao,Sneha Rao - sneha.rao@yahoo.com,Yes
+TXN00321,2024-02-27,S5,Delhi,Beverages,Mineral Water - Nestle,30,48.64,,1459.2,Debit Card,4.4,Suresh Iyer,Suresh Iyer - suresh.iyer@outlook.com,No
+TXN00273,2024-06-03,S2,Mumbai,Dairy,Milk - Nestle,21,85.42,0.0,1793.82,Credit Card,3.2,Rohan Nair,Rohan Nair - rohan.nair@gmail.com,No
+TXN00442,2025-01-27,S4,Chennai,Produce,Spinach - Patanjali,43,43.13,15.0,1576.4,Credit Card,4.6,Sneha Gupta,Sneha Gupta - sneha.gupta@outlook.com,No
+TXN00039,2024-09-30,S3,Chennai,Dairy,Yogurt - HUL,32,43.94,15.0,1195.17,UPI,2.9,Rohan Patel,Rohan Patel - rohan.patel@yahoo.com,No
+TXN00151,2024-03-21,S3,Chennai,Produce,Apple - Patanjali,21,47.02,0.0,987.42,Credit Card,,  Rahul Rao  ,Rahul Rao - rahul.rao@gmail.com,No
+TXN00295,2024-02-20,S5, Mumbai,Dairy,Milk - HUL,25,45.6,0.0,1140.0,Cash,2.5,  Suresh Reddy  ,Suresh Reddy - suresh.reddy@outlook.com,No
+TXN00456,2024-10-27,S3,Chennai,Dairy,Cheese - HUL,10,88.16,10.0,793.44,UPI,3.6,Amit Patel,Amit Patel - amit.patel@yahoo.com,No
+TXN00164,2024-07-02,S5, Mumbai,Dairy,Yogurt - HUL,11,59.49,5.0,621.67,Cash,3.1,Vikram Gupta,Vikram Gupta - vikram.gupta@outlook.com,No
+TXN00168,2024-10-06,S4,Delhi,Produce, Banana - ITC ,2,38.56,0.0,77.12,UPI,2.8,Neha Mehta,Neha Mehta - neha.mehta@gmail.com,No
+TXN00247,2024-01-17,S5, Mumbai,Household,Dish Soap - Amul,31,190.79,20.0,4731.59,Debit Card,4.1,  Rohan Singh  ,Rohan Singh - rohan.singh@yahoo.com,No
+TXN00207,2025-02-23,S2,Pune,Dairy, Yogurt - Patanjali ,16,58.63,15.0,797.37,Debit Card,4.3,Vikram Gupta,Vikram Gupta - vikram.gupta@store.in,No
+TXN00189,2024-09-19,S5, Bangalore,Beverages,Green Tea - ITC,17,52.9,0.0,899.3,UPI,2.1,Kavya Sharma,Kavya Sharma - kavya.sharma@gmail.com,No
+TXN00451,2024-12-07,S2,Bangalore,Produce,Tomato - Patanjali,39,24.86,10.0,872.59,Wallet,4.8,  Vikram Iyer  ,Vikram Iyer - vikram.iyer@outlook.com,No
+TXN00471,2024-02-27,S5,Delhi,Produce,Tomato - Local Brand,4,42.0,0.0,168.0,Debit Card,1.6,Vikram Mehta,Vikram Mehta - vikram.mehta@yahoo.com,Yes
+TXN00146,2024-09-24,S2,Delhi ,Bakery,Bun - Amul,31,49.69,0.0,1540.39,Debit Card,4.2,Vikram Mehta,Vikram Mehta - vikram.mehta@gmail.com,Yes
+TXN00274,2025-05-04,S1,Bangalore,Snacks,Biscuits - HUL,24,37.92,5.0,864.58,UPI,3.9,Rahul Iyer,Rahul Iyer - rahul.iyer@gmail.com,No
+TXN00428,2024-08-10,S3, Chennai,Household,Garbage Bags - Local Brand,28,138.38,0.0,3874.64,Credit Card,3.1,Kavya Sharma,Kavya Sharma - kavya.sharma@gmail.com,No
+TXN00473,2025-03-31,S5,Pune,Dairy,Yogurt - Amul,23,90.75,15.0,1774.16,UPI,4.7,Neha Patel,Neha Patel - neha.patel@outlook.com,No
+TXN00347,2024-09-10,S2,delhi,Produce,Tomato - Local Brand,16,37.64,15.0,511.9,UPI,4.6,Neha Patel,Neha Patel - neha.patel@store.in,No
+TXN00363,2025-01-14,S2,Chennai,Dairy,Cheese - ITC,14,44.06,0.0,616.84,Debit Card,5.0,Priya Rao,Priya Rao - priya.rao@outlook.com,No
+TXN00043,2024-08-29,S2,Mumbai,Snacks,Popcorn - Nestle,6,24.81,10.0,133.97,UPI,4.3,  Neha Patel  ,Neha Patel - neha.patel@store.in,No
+TXN00161,2024-09-03,S4,Mumbai,Snacks,Biscuits - HUL,41,25.08,15.0,874.04,UPI,3.0,Vikram Singh,Vikram Singh - vikram.singh@outlook.com,No
+TXN00446,2024-06-13,S3, Pune,Snacks,Namkeen - HUL,45,50.87,5.0,2174.69,Debit Card,2.1,  Anita Verma  ,Anita Verma - anita.verma@outlook.com,No
+TXN00482,2025-01-03,S2, Mumbai ,Beverages, Mineral Water - Patanjali ,37,70.84,15.0,2227.92,Debit Card,,  Neha Reddy  ,Neha Reddy - neha.reddy@gmail.com,No
+TXN00438,2025-06-02,S2,Chennai,Frozen Foods, Frozen Paratha - Amul ,3,161.04,10.0,434.81,Credit Card,3.8,  Rahul Verma  ,Rahul Verma - rahul.verma@outlook.com,No
+TXN00405,2025-01-30,S1,Mumbai,Beverages,Mineral Water - ITC,35,75.28,,2634.8,UPI,3.2,Priya Gupta,Priya Gupta - priya.gupta@outlook.com,No
+TXN00329,2025-03-22,S3,Bangalore,Frozen Foods, Nuggets - HUL ,25,211.65,0.0,5291.25,Credit Card,5.0,Sneha Nair,Sneha Nair - sneha.nair@yahoo.com,No
+TXN00176,2025-04-08,S5,Chennai ,Snacks,Popcorn - HUL,38,37.46,0.0,1423.48,Cash,3.4,Amit Singh,Amit Singh - amit.singh@gmail.com,Yes
+TXN00413,2025-01-01,S1,Chennai ,Produce, Spinach - Patanjali ,43,36.31,10.0,1405.2,Debit Card,2.4,Vikram Reddy,Vikram Reddy - vikram.reddy@gmail.com,No
+TXN00359,2024-09-14,S5,Pune,Snacks,Chocolate - ITC,45,51.85,20.0,1866.6,Wallet,2.9,Priya Mehta,Priya Mehta - priya.mehta@store.in,No
+TXN00230,2025-01-09,S2,Bangalore,Household,Detergent - ITC,19,153.65,10.0,2627.42,UPI,5.0,Suresh Gupta,Suresh Gupta - suresh.gupta@store.in,Yes
+TXN00479,2025-05-19,S4,Mumbai,Frozen Foods,Nuggets - ITC,40,165.96,0.0,6638.4,UPI,2.9,  Priya Mehta  ,Priya Mehta - priya.mehta@gmail.com,No
+TXN00229,2025-04-14,S3,Bangalore,Beverages,Cola - Local Brand,10,75.24,10.0,677.16,Cash,4.1,  Rahul Reddy  ,Rahul Reddy - rahul.reddy@outlook.com,No
+TXN00101,2024-01-05,S5,Chennai,Dairy,Paneer - ITC,30,48.59,0.0,1457.7,Debit Card,3.8,Suresh Patel,Suresh Patel - suresh.patel@store.in,No
+TXN00404,2024-06-25,S1,Mumbai,Bakery,Bun - HUL,36,28.38,15.0,868.43,UPI,3.6,Rahul Nair,Rahul Nair - rahul.nair@store.in,No
+TXN00054,2025-01-22,S2,Bangalore,Dairy,Cheese - Patanjali,25,45.34,5.0,1076.82,UPI,3.4,Anita Sharma,Anita Sharma - anita.sharma@outlook.com,Yes
+TXN00228,2025-04-04,S2, Pune,Snacks, Namkeen - Nestle ,40,34.53,0.0,1381.2,UPI,3.9,Anita Singh,Anita Singh - anita.singh@gmail.com,No
+TXN00467,2024-05-05,S3,Delhi,Beverages,Green Tea - Local Brand,30,44.08,5.0,1256.28,UPI,4.1,  Suresh Sharma  ,Suresh Sharma - suresh.sharma@store.in,No
+TXN00499,2024-10-31,S2,Delhi,Beverages,Cola - Britannia,32,64.38,0.0,2060.16,Cash,2.9,Anita Rao,Anita Rao - anita.rao@gmail.com,No
+TXN00155,2024-08-12,S1,Delhi,Dairy,Yogurt - Amul,6,92.97,15.0,474.15,Credit Card,2.8,Anita Rao,Anita Rao - anita.rao@store.in,No
+TXN00252,2024-02-15,S4,Chennai,Frozen Foods, Frozen Paratha - Patanjali ,23,115.94,20.0,2133.3,UPI,3.8,  Vikram Gupta  ,Vikram Gupta - vikram.gupta@store.in,No
+TXN00159,2024-02-22,S4,Pune,Frozen Foods,Frozen Peas - Patanjali,45,156.04,20.0,5617.44,Credit Card,4.0,Rahul Patel,Rahul Patel - rahul.patel@yahoo.com,No
+TXN00272,2024-10-14,S2,Delhi,Beverages,Cola - Patanjali,25,46.55,0.0,1163.75,Cash,3.3,Anita Gupta,Anita Gupta - anita.gupta@gmail.com,No
+TXN00045,2024-12-05,S5,Bangalore,Household,Floor Cleaner - ITC,32,162.96,0.0,5214.72,Cash,3.7,Neha Sharma,Neha Sharma - neha.sharma@outlook.com,No
+TXN00114,2024-06-19,S2,Pune,Produce,Onion - Britannia,10,47.72,10.0,429.48,Debit Card,4.3,Anita Iyer,Anita Iyer - anita.iyer@gmail.com,No
+TXN00319,2024-05-06,S2,bangalore,Produce,Apple - Amul,8,47.33,0.0,378.64,Debit Card,2.3,Amit Reddy,Amit Reddy - amit.reddy@gmail.com,No
+TXN00212,2024-04-21,S4,Pune,Produce, Banana - HUL ,9,41.42,0.0,372.78,UPI,5.0,Anita Reddy,Anita Reddy - anita.reddy@yahoo.com,No
+TXN00109,2024-08-28,S1,Pune,Frozen Foods,Ice Cream - HUL,17,111.11,0.0,1888.87,Cash,3.1,  Vikram Mehta  ,Vikram Mehta - vikram.mehta@yahoo.com,No
+TXN00170,2025-05-25,S4,Mumbai,Frozen Foods,Nuggets - ITC,19,121.47,0.0,2307.93,Cash,4.3,  Rahul Sharma  ,Rahul Sharma - rahul.sharma@store.in,No
+TXN00080,2024-05-08,S4,Chennai,Bakery,Bun - Nestle,46,52.98,0.0,2437.08,UPI,4.4,Neha Verma,Neha Verma - neha.verma@gmail.com,No
+TXN00472,2025-04-20,S3,delhi,Frozen Foods, Nuggets - HUL ,29,216.02,5.0,5951.35,Credit Card,4.4,  Sneha Singh  ,Sneha Singh - sneha.singh@outlook.com,No
+TXN00085,2025-01-26,S2,Mumbai,Household,Dish Soap - HUL,13,182.37,0.0,2370.81,Cash,2.7,Rahul Singh,Rahul Singh - rahul.singh@outlook.com,No
+TXN00009,2024-08-02,S2, Mumbai,Snacks, Popcorn - ITC ,32,30.52,0.0,976.64,Cash,4.8,Kavya Singh,Kavya Singh - kavya.singh@yahoo.com,No
+TXN00033,2024-08-31,S4,Bangalore,Bakery,Croissant - Local Brand,28,57.89,10.0,1458.83,Debit Card,3.7,Vikram Sharma,Vikram Sharma - vikram.sharma@store.in,No
+TXN00100,2025-04-06,S1,delhi,Bakery, Bun - Local Brand ,46,39.23,10.0,1624.12,Cash,3.2,  Neha Mehta  ,Neha Mehta - neha.mehta@gmail.com,No
+TXN00436,2024-09-09,S2,Pune,Bakery,Cake - Nestle,2,59.19,10.0,106.54,Debit Card,4.0,Kavya Singh,Kavya Singh - kavya.singh@gmail.com,No
+TXN00412,2025-05-20,S4,Bangalore,Frozen Foods,Ice Cream - Local Brand,7,135.6,15.0,806.82,Cash,4.1,Vikram Reddy,Vikram Reddy - vikram.reddy@outlook.com,No
+TXN00223,2025-01-26,S1,Pune ,Snacks,Biscuits - Amul,24,28.48,0.0,683.52,UPI,3.7,Suresh Verma,Suresh Verma - suresh.verma@store.in,Yes
+TXN00029,2024-02-28,S5,Pune,Frozen Foods, Frozen Peas - ITC ,38,126.55,0.0,4808.9,Debit Card,3.3,  Rohan Rao  ,Rohan Rao - rohan.rao@outlook.com,No
+TXN00288,2024-11-16,S1,Chennai,Household,Floor Cleaner - Nestle,35,116.19,,4066.65,UPI,5.0,  Priya Patel  ,Priya Patel - priya.patel@gmail.com,No
+TXN00395,2025-01-03,S3,Delhi,Produce,Banana - Nestle,19,29.72,0.0,564.68,Credit Card,4.5,Anita Nair,Anita Nair - anita.nair@gmail.com,No
+TXN00056,2025-01-24,S2,Delhi,Snacks,Popcorn - Patanjali,31,42.33,0.0,1312.23,Debit Card,4.7,Amit Reddy,Amit Reddy - amit.reddy@store.in,No
+TXN00475,2024-01-01,S1,Delhi,Frozen Foods, Frozen Paratha - Nestle ,32,165.91,5.0,5043.66,UPI,,  Rohan Mehta  ,Rohan Mehta - rohan.mehta@store.in,No
+TXN00485,2024-05-13,S4,Mumbai,Snacks, Chocolate - Britannia ,6,29.73,15.0,151.62,UPI,2.4,Kavya Iyer,Kavya Iyer - kavya.iyer@yahoo.com,No
+TXN00411,2025-01-18,S4,Mumbai ,Produce,Banana - Patanjali,17,21.35,5.0,344.8,UPI,5.0,Priya Nair,Priya Nair - priya.nair@yahoo.com,No
+TXN00049,2025-03-03,S3,Delhi,Beverages,Green Tea - Local Brand,12,46.15,0.0,553.8,UPI,2.6,Amit Rao,Amit Rao - amit.rao@store.in,Yes
+TXN00474,2024-12-26,S5,Pune,Beverages,Cola - Patanjali,6,58.62,10.0,316.55,Cash,2.8,  Anita Verma  ,Anita Verma - anita.verma@gmail.com,No
+TXN00355,2024-11-20,S1,chennai,Frozen Foods,Frozen Peas - Nestle,38,129.37,0.0,4916.06,Credit Card,4.6,Vikram Verma,Vikram Verma - vikram.verma@outlook.com,No
+TXN00034,2025-05-19,S5,Chennai,Snacks,Biscuits - Patanjali,3,54.37,5.0,154.95,Credit Card,3.5,  Amit Sharma  ,Amit Sharma - amit.sharma@store.in,No
+TXN00036,2025-04-29,S3,Bangalore,Produce,Apple - Amul,34,28.14,0.0,956.76,UPI,4.3,Amit Nair,Amit Nair - amit.nair@gmail.com,No
+TXN00064,2025-03-31,S3,Mumbai,Household, Detergent - Nestle ,42,107.95,0.0,4533.9,UPI,3.6,  Rahul Gupta  ,Rahul Gupta - rahul.gupta@gmail.com,No
+TXN00400,2024-03-02,S5,Delhi,Frozen Foods,Ice Cream - Local Brand,17,213.23,15.0,3081.17,Credit Card,3.9,Sneha Gupta,Sneha Gupta - sneha.gupta@store.in,No
+TXN00308,2024-07-14,S5,Chennai,Household, Tissue Paper - Nestle ,2,180.51,5.0,342.97,Credit Card,2.6,Neha Singh,Neha Singh - neha.singh@yahoo.com,No
+TXN00235,2025-03-13,S2,delhi,Dairy,Yogurt - Amul,27,59.43,0.0,1604.61,UPI,3.2,Kavya Reddy,Kavya Reddy - kavya.reddy@gmail.com,No
+TXN00490,2024-07-31,S3,Delhi,Dairy,Butter - HUL,43,92.11,10.0,3564.66,Credit Card,4.2,  Neha Gupta  ,Neha Gupta - neha.gupta@store.in,No
+TXN00046,2024-04-01,S4, Pune,Bakery,Cookies - Local Brand,35,62.08,10.0,1955.52,Debit Card,3.2,Sneha Mehta,Sneha Mehta - sneha.mehta@store.in,Yes
+TXN00304,2024-09-20,S3, Delhi,Produce,Tomato - Nestle,29,25.16,5.0,693.16,Credit Card,3.1,Kavya Patel,Kavya Patel - kavya.patel@gmail.com,No
+TXN00178,2025-02-06,S4,Mumbai,Bakery,Croissant - Nestle,2,29.0,,58.0,UPI,4.4,Kavya Rao,Kavya Rao - kavya.rao@store.in,No
+TXN00220,2025-02-01,S2,mumbai,Household, Floor Cleaner - HUL ,25,181.49,0.0,4537.25,Credit Card,2.2,  Vikram Patel  ,Vikram Patel - vikram.patel@yahoo.com,No
+TXN00383,2024-03-15,S5,Chennai,Dairy,Milk - HUL,20,70.28,0.0,1405.6,UPI,,Sneha Reddy,Sneha Reddy - sneha.reddy@gmail.com,No
+TXN00297,2024-05-04,S4,Pune,Beverages,Cola - Patanjali,8,48.3,10.0,347.76,UPI,,Anita Nair,Anita Nair - anita.nair@outlook.com,No
+TXN00022,2024-10-03,S4, Bangalore,Dairy,Paneer - Patanjali,4,65.88,10.0,237.17,Wallet,5.0,Rohan Singh,Rohan Singh - rohan.singh@gmail.com,No
+TXN00249,2024-08-07,S2,Bangalore,Beverages,Green Tea - Britannia,12,52.55,5.0,599.07,UPI,5.0,  Sneha Patel  ,Sneha Patel - sneha.patel@gmail.com,No
+TXN00310,2024-02-16,S3,Delhi,Snacks,Namkeen - Amul,40,53.09,0.0,2123.6,Wallet,3.7,  Sneha Rao  ,Sneha Rao - sneha.rao@store.in,No
+TXN00200,2024-04-08,S1,Bangalore ,Beverages,Green Tea - Britannia,18,41.78,5.0,714.44,Cash,4.2,Suresh Rao,Suresh Rao - suresh.rao@gmail.com,No
+TXN00138,2024-08-12,S1,Delhi,Bakery, Croissant - Patanjali ,12,46.85,15.0,477.87,Credit Card,3.3,  Rahul Patel  ,Rahul Patel - rahul.patel@outlook.com,No
+TXN00025,2024-11-09,S3,Pune,Dairy, Paneer - ITC ,25,79.28,5.0,1882.9,Debit Card,3.9,  Priya Verma  ,Priya Verma - priya.verma@outlook.com,No
+TXN00185,2025-04-17,S5,Bangalore ,Beverages,Orange Juice - Patanjali,43,67.59,15.0,2470.41,Cash,5.0,Neha Nair,Neha Nair - neha.nair@yahoo.com,No
+TXN00206,2024-04-29,S4,Pune,Produce,Tomato - ITC,24,37.35,0.0,896.4,Credit Card,3.9,Amit Mehta,Amit Mehta - amit.mehta@gmail.com,No
+TXN00135,2025-03-31,S1, Mumbai,Beverages,Mineral Water - Local Brand,8,40.81,5.0,310.16,Credit Card,3.9,Sneha Patel,Sneha Patel - sneha.patel@outlook.com,No
+TXN00300,2024-12-07,S5,delhi,Beverages,Mineral Water - Local Brand,45,47.23,15.0,1806.55,Cash,3.3,  Neha Patel  ,Neha Patel - neha.patel@outlook.com,No
+TXN00117,2025-06-08,S5,mumbai,Beverages, Orange Juice - HUL ,23,57.71,5.0,1260.96,Cash,3.6,Kavya Patel,Kavya Patel - kavya.patel@store.in,No
+TXN00213,2025-05-24,S2,Mumbai,Produce,Tomato - Amul,47,23.21,0.0,1090.87,Debit Card,,Rahul Iyer,Rahul Iyer - rahul.iyer@yahoo.com,Yes
+TXN00453,2025-05-25,S5,Chennai ,Dairy, Yogurt - Amul ,16,55.18,0.0,882.88,Debit Card,4.9,Priya Verma,Priya Verma - priya.verma@gmail.com,No
+TXN00430,2024-06-11,S1,Mumbai,Frozen Foods,Frozen Paratha - ITC,4,134.45,,537.8,Cash,4.4,  Rohan Rao  ,Rohan Rao - rohan.rao@outlook.com,No
+TXN00465,2025-06-14,S5,Delhi,Beverages, Coffee - HUL ,23,58.42,5.0,1276.48,Cash,4.8,Suresh Reddy,Suresh Reddy - suresh.reddy@yahoo.com,No
+TXN00232,2024-02-07,S2, Pune,Snacks,Chocolate - Local Brand,24,33.91,0.0,813.84,Debit Card,,  Suresh Nair  ,Suresh Nair - suresh.nair@outlook.com,No
+TXN00218,2024-06-11,S5, Mumbai ,Beverages,Mineral Water - Britannia,14,36.91,0.0,516.74,UPI,4.1,  Rohan Reddy  ,Rohan Reddy - rohan.reddy@outlook.com,No
+TXN00057,2024-04-15,S4, Bangalore,Snacks, Popcorn - ITC ,21,48.17,10.0,910.41,Wallet,4.9,  Kavya Verma  ,Kavya Verma - kavya.verma@store.in,No
+TXN00462,2024-06-30,S2, Pune,Frozen Foods,Frozen Peas - ITC,34,105.99,10.0,3243.29,UPI,4.1,Rohan Reddy,Rohan Reddy - rohan.reddy@outlook.com,No
+TXN00498,2024-08-20,S3,Delhi,Household, Floor Cleaner - Nestle ,5,128.68,5.0,611.23,Credit Card,3.5,Vikram Iyer,Vikram Iyer - vikram.iyer@gmail.com,No
+TXN00369,2024-02-12,S3,Bangalore,Snacks,Namkeen - Amul,49,27.61,20.0,1082.31,Debit Card,,Suresh Reddy,Suresh Reddy - suresh.reddy@yahoo.com,No
+TXN00367,2025-02-20,S3,Pune,Household, Dish Soap - Amul ,27,88.53,5.0,,Credit Card,4.2,Vikram Mehta,Vikram Mehta - vikram.mehta@outlook.com,No
+TXN00182,2024-05-27,S4,Bangalore,Produce,Spinach - Patanjali,22,34.03,5.0,711.23,UPI,4.3,Kavya Mehta,Kavya Mehta - kavya.mehta@outlook.com,No
+TXN00098,2025-02-10,S1,Delhi,Produce,Banana - Local Brand,32,30.31,0.0,969.92,Debit Card,2.8,  Suresh Nair  ,Suresh Nair - suresh.nair@outlook.com,No
+TXN00115,2025-06-24,S3,Chennai,Produce,Apple - Nestle,44,21.81,5.0,911.66,Cash,5.0,Priya Mehta,Priya Mehta - priya.mehta@gmail.com,No
+TXN00279,2024-06-24,S1,Mumbai,Dairy,Cheese - HUL,48,83.44,0.0,4005.12,UPI,3.8,Kavya Gupta,Kavya Gupta - kavya.gupta@gmail.com,No
+TXN00119,2024-08-30,S1,Chennai,Dairy,Milk - Patanjali,33,51.13,0.0,1687.29,Credit Card,3.5,Anita Singh,Anita Singh - anita.singh@gmail.com,No
+TXN00378,2025-02-21,S5,Bangalore,Produce,Spinach - ITC,34,44.73,10.0,1368.74,Wallet,3.3,Amit Sharma,Amit Sharma - amit.sharma@gmail.com,No
+TXN00171,2024-05-23,S4,Bangalore,Produce,Onion - Nestle,39,39.94,20.0,1246.13,Debit Card,,Vikram Gupta,Vikram Gupta - vikram.gupta@outlook.com,No
+TXN00433,2024-01-09,S1,Delhi,Frozen Foods,Frozen Paratha - Patanjali,28,165.13,10.0,4161.28,Debit Card,4.3,  Neha Mehta  ,Neha Mehta - neha.mehta@yahoo.com,No
+TXN00055,2024-01-02,S5,Bangalore,Frozen Foods,Nuggets - Nestle,41,177.27,5.0,6904.67,UPI,4.0,Vikram Gupta,Vikram Gupta - vikram.gupta@gmail.com,No
+TXN00177,2024-12-14,S4,Mumbai,Dairy,Paneer - Patanjali,28,48.82,0.0,1366.96,Debit Card,4.1,Amit Verma,Amit Verma - amit.verma@store.in,No
+TXN00328,2024-07-07,S1,Mumbai,Bakery,Croissant - ITC,31,47.82,10.0,1334.18,Wallet,4.4,  Suresh Mehta  ,Suresh Mehta - suresh.mehta@gmail.com,No
+TXN00195,2025-03-28,S1, Mumbai ,Bakery,Cookies - Local Brand,46,47.68,0.0,2193.28,Debit Card,4.5,  Anita Nair  ,Anita Nair - anita.nair@outlook.com,No
+TXN00199,2024-08-20,S1, Chennai,Bakery,Cookies - Britannia,42,59.07,5.0,2356.89,Cash,2.7,Amit Iyer,Amit Iyer - amit.iyer@outlook.com,No
+TXN00356,2025-05-30,S1,mumbai,Dairy, Butter - HUL ,17,56.17,0.0,954.89,UPI,4.6,Priya Verma,Priya Verma - priya.verma@store.in,No
+TXN00183,2025-05-03,S2,Pune,Produce,Tomato - Britannia,26,41.99,20.0,873.39,Wallet,4.0,Suresh Rao,Suresh Rao - suresh.rao@store.in,No
+TXN00410,2025-03-30,S1,Delhi,Frozen Foods,Nuggets - ITC,24,222.97,0.0,5351.28,Wallet,3.4,Amit Verma,Amit Verma - amit.verma@gmail.com,Yes
+TXN00104,2025-02-01,S3,Pune,Bakery,Bread - Britannia,43,59.5,5.0,2430.57,UPI,3.5,Sneha Reddy,Sneha Reddy - sneha.reddy@store.in,No
+TXN00221,2024-10-03,S3,Chennai ,Frozen Foods,Nuggets - Local Brand,34,218.03,20.0,5930.42,Credit Card,3.6,Priya Gupta,Priya Gupta - priya.gupta@gmail.com,No
+TXN00131,2025-01-11,S3,Bangalore,Dairy,Cheese - Britannia,12,76.82,0.0,921.84,Cash,3.7,Sneha Verma,Sneha Verma - sneha.verma@gmail.com,No
+TXN00354,2025-03-17,S1, Bangalore,Dairy,Butter - Nestle,17,52.67,20.0,716.31,Credit Card,4.5,Kavya Rao,Kavya Rao - kavya.rao@yahoo.com,No
+TXN00339,2024-04-03,S4,Delhi,Household,Floor Cleaner - Amul,42,95.48,0.0,4010.16,UPI,4.7,Rahul Sharma,Rahul Sharma - rahul.sharma@gmail.com,No
+TXN00364,2025-06-28,S4,Bangalore,Beverages, Orange Juice - Nestle ,47,62.9,5.0,2808.48,Credit Card,5.0,  Rahul Reddy  ,Rahul Reddy - rahul.reddy@yahoo.com,No
+TXN00061,2024-07-20,S4,Delhi,Produce,Onion - Britannia,4,23.52,0.0,94.08,Cash,3.6,Suresh Mehta,Suresh Mehta - suresh.mehta@yahoo.com,No
+TXN00095,2024-02-02,S3,Bangalore,Dairy,Yogurt - HUL,30,85.35,0.0,2560.5,Credit Card,,  Rahul Gupta  ,Rahul Gupta - rahul.gupta@outlook.com,No
+TXN00194,2024-09-10,S2,Pune,Bakery,Bun - Nestle,35,41.06,15.0,1221.54,Debit Card,4.4,  Kavya Singh  ,Kavya Singh - kavya.singh@outlook.com,No
+TXN00141,2025-04-16,S4,Chennai ,Beverages,Coffee - Local Brand,40,57.15,0.0,2286.0,UPI,4.9,  Rahul Reddy  ,Rahul Reddy - rahul.reddy@outlook.com,No
+TXN00149,2025-01-21,S5,Chennai,Snacks, Chocolate - Local Brand ,32,33.57,0.0,1074.24,Wallet,4.8,  Rahul Reddy  ,Rahul Reddy - rahul.reddy@store.in,No
+TXN00203,2025-02-07,S3,Pune,Frozen Foods,Frozen Peas - Britannia,33,203.12,,6702.96,UPI,5.0,  Suresh Gupta  ,Suresh Gupta - suresh.gupta@store.in,No
+TXN00153,2024-01-02,S4,Chennai,Frozen Foods, Ice Cream - Patanjali ,40,125.49,5.0,4768.62,Debit Card,3.0,Rohan Patel,Rohan Patel - rohan.patel@yahoo.com,Yes
+TXN00338,2024-02-16,S2,Pune,Beverages,Mineral Water - Britannia,42,57.47,10.0,2172.37,UPI,4.0,  Anita Rao  ,Anita Rao - anita.rao@store.in,No
+TXN00409,2024-09-21,S3,Chennai,Bakery,Bread - Nestle,40,40.31,10.0,1451.16,Wallet,3.9,Neha Rao,Neha Rao - neha.rao@yahoo.com,No
+TXN00011,2025-04-03,S4,pune,Snacks, Biscuits - Patanjali ,13,38.08,10.0,445.54,Debit Card,4.1,Suresh Reddy,Suresh Reddy - suresh.reddy@yahoo.com,No
+TXN00270,2024-01-18,S5,Pune,Snacks,Chocolate - Britannia,15,28.27,15.0,,Debit Card,2.4,Kavya Gupta,Kavya Gupta - kavya.gupta@outlook.com,No
+TXN00097,2025-05-17,S2,Bangalore,Household, Floor Cleaner - ITC ,13,189.41,5.0,2339.21,Credit Card,5.0,Priya Sharma,Priya Sharma - priya.sharma@gmail.com,Yes
+TXN00211,2024-08-14,S5,Chennai,Dairy,Cheese - Britannia,27,55.7,0.0,1503.9,Credit Card,3.9,Vikram Rao,Vikram Rao - vikram.rao@yahoo.com,Yes
+TXN00241,2025-04-25,S5,Pune,Beverages, Coffee - HUL ,41,72.06,5.0,2806.74,Credit Card,4.5,Rahul Nair,Rahul Nair - rahul.nair@gmail.com,No
+TXN00058,2025-04-21,S4,Delhi ,Bakery, Bun - Amul ,20,32.75,10.0,589.5,Credit Card,3.0,  Kavya Nair  ,Kavya Nair - kavya.nair@outlook.com,No
+TXN00302,2024-02-23,S5,Pune,Beverages,Green Tea - Nestle,45,61.94,0.0,2787.3,Cash,3.8,Priya Gupta,Priya Gupta - priya.gupta@yahoo.com,No
+TXN00384,2025-02-16,S3,Mumbai ,Dairy,Yogurt - Amul,6,59.23,0.0,355.38,Credit Card,4.8,  Vikram Iyer  ,Vikram Iyer - vikram.iyer@gmail.com,No
+TXN00360,2025-05-11,S1,Bangalore,Dairy,Milk - Patanjali,6,58.06,20.0,278.69,Cash,3.0,  Rahul Mehta  ,Rahul Mehta - rahul.mehta@outlook.com,No
+TXN00037,2024-01-21,S5,Pune,Produce, Apple - Patanjali ,16,28.56,,456.96,UPI,3.8,Vikram Reddy,Vikram Reddy - vikram.reddy@store.in,No
+TXN00491,2024-07-21,S2, Mumbai,Beverages,Orange Juice - Amul,17,39.1,0.0,664.7,Credit Card,3.0,  Rahul Nair  ,Rahul Nair - rahul.nair@yahoo.com,No
+TXN00021,2024-07-10,S5,Mumbai,Snacks, Biscuits - ITC ,31,42.31,,1311.61,Debit Card,5.0,  Sneha Rao  ,Sneha Rao - sneha.rao@gmail.com,No
+TXN00441,2024-06-18,S5,Pune,Produce,Tomato - HUL,15,21.57,10.0,291.2,UPI,3.7,  Priya Gupta  ,Priya Gupta - priya.gupta@store.in,No
+TXN00333,2025-03-10,S5,delhi,Produce,Banana - HUL,40,43.03,10.0,1549.08,Credit Card,3.9,Rahul Reddy,Rahul Reddy - rahul.reddy@yahoo.com,No
+TXN00076,2024-01-15,S1,pune,Household,Detergent - Patanjali,8,178.03,0.0,1424.24,Credit Card,3.6,Anita Singh,Anita Singh - anita.singh@outlook.com,No
+TXN00201,2024-07-26,S1,Bangalore,Produce,Banana - ITC,48,43.99,20.0,1689.22,Cash,5.0,  Suresh Singh  ,Suresh Singh - suresh.singh@store.in,No
+TXN00078,2025-06-04,S3,Delhi,Dairy, Milk - Amul ,45,81.29,0.0,3658.05,Debit Card,4.7,  Neha Iyer  ,Neha Iyer - neha.iyer@yahoo.com,No
+TXN00264,2024-07-09,S5,Delhi,Produce, Onion - Patanjali ,22,44.21,10.0,875.36,Debit Card,4.6,  Suresh Verma  ,Suresh Verma - suresh.verma@yahoo.com,No
+TXN00494,2025-06-15,S1,Chennai,Dairy,Paneer - Amul,4,51.17,0.0,204.68,Cash,2.8,Rahul Nair,Rahul Nair - rahul.nair@outlook.com,Yes
+TXN00150,2024-04-22,S2,Delhi,Produce,Spinach - ITC,29,23.52,15.0,579.77,Wallet,4.1,Amit Sharma,Amit Sharma - amit.sharma@yahoo.com,No
+TXN00440,2024-06-16,S4,Delhi ,Dairy, Cheese - Nestle ,24,67.83,5.0,1546.52,Debit Card,4.3,  Rahul Sharma  ,Rahul Sharma - rahul.sharma@outlook.com,No
+TXN00003,2024-09-27,S5,Mumbai,Produce,Tomato - Patanjali,48,24.57,0.0,1179.36,Credit Card,3.3,Neha Patel,Neha Patel - neha.patel@outlook.com,No
+TXN00053,2024-03-21,S1, Bangalore,Beverages,Green Tea - ITC,5,35.28,0.0,176.4,UPI,2.9,Kavya Mehta,Kavya Mehta - kavya.mehta@store.in,No
+TXN00263,2024-04-25,S4,Mumbai,Beverages,Mineral Water - Amul,49,57.01,10.0,2514.14,Cash,,Kavya Patel,Kavya Patel - kavya.patel@outlook.com,No
+TXN00254,2025-06-01,S4,Chennai,Bakery,Cake - ITC,48,63.16,0.0,3031.68,Wallet,4.6,Amit Verma,Amit Verma - amit.verma@gmail.com,No
+TXN00458,2024-03-10,S1, Chennai,Snacks,Chocolate - Patanjali,18,52.33,,,UPI,4.4,  Rahul Mehta  ,Rahul Mehta - rahul.mehta@outlook.com,Yes
+TXN00260,2024-10-28,S4,Pune,Snacks,Chocolate - Amul,21,34.58,0.0,726.18,Debit Card,3.7,Anita Iyer,Anita Iyer - anita.iyer@store.in,No
+TXN00334,2024-03-26,S4,chennai,Dairy,Butter - Britannia,37,67.2,10.0,2237.76,Wallet,4.0,Vikram Gupta,Vikram Gupta - vikram.gupta@store.in,No
+TXN00370,2024-10-11,S1,Chennai,Produce,Tomato - Amul,31,24.14,15.0,636.09,Debit Card,3.1,  Priya Iyer  ,Priya Iyer - priya.iyer@store.in,No
+TXN00322,2025-05-27,S5, Pune,Bakery,Cake - ITC,9,62.8,10.0,508.68,Wallet,3.6,  Neha Sharma  ,Neha Sharma - neha.sharma@gmail.com,No
+TXN00184,2024-12-03,S1,Pune,Dairy, Paneer - Britannia ,49,78.33,15.0,3262.44,Credit Card,4.0,Amit Reddy,Amit Reddy - amit.reddy@gmail.com,No
+TXN00152,2024-04-22,S2,Chennai,Bakery,Cookies - Amul,21,32.86,0.0,690.06,UPI,4.7,Rahul Nair,Rahul Nair - rahul.nair@yahoo.com,No
+TXN00454,2024-11-22,S5,Pune,Dairy,Yogurt - Patanjali,35,74.29,5.0,2470.14,Debit Card,3.4,Priya Nair,Priya Nair - priya.nair@gmail.com,No
+TXN00303,2025-03-19,S3,Delhi ,Frozen Foods,Nuggets - Amul,38,193.15,5.0,6972.71,UPI,3.3,Suresh Mehta,Suresh Mehta - suresh.mehta@outlook.com,No
+TXN00191,2024-12-11,S1, Delhi,Beverages,Cola - Britannia,36,61.64,,2219.04,Credit Card,2.9,Sneha Nair,Sneha Nair - sneha.nair@gmail.com,No
+TXN00075,2024-06-05,S2, Bangalore,Snacks, Biscuits - Local Brand ,24,45.38,5.0,1034.66,UPI,2.0,Anita Sharma,Anita Sharma - anita.sharma@yahoo.com,Yes
+TXN00349,2024-01-23,S2,Chennai ,Bakery,Croissant - Patanjali,47,42.29,15.0,,Debit Card,3.9,  Neha Gupta  ,Neha Gupta - neha.gupta@store.in,No
+TXN00244,2024-07-10,S3,Mumbai,Dairy,Milk - ITC,47,85.86,5.0,3833.65,Wallet,4.6,Rahul Rao,Rahul Rao - rahul.rao@store.in,No
+TXN00484,2024-04-26,S1,Mumbai,Produce,Apple - Britannia,20,39.38,0.0,787.6,UPI,2.4,Vikram Iyer,Vikram Iyer - vikram.iyer@gmail.com,No
+TXN00088,2025-01-13,S3,delhi,Dairy, Milk - Local Brand ,49,60.71,0.0,2974.79,Cash,4.9,Neha Mehta,Neha Mehta - neha.mehta@store.in,No
+TXN00240,2024-10-10,S1, Delhi,Household, Detergent - Britannia ,12,180.6,10.0,1950.48,UPI,3.5,Rohan Verma,Rohan Verma - rohan.verma@store.in,No
+TXN00144,2025-05-11,S3,delhi,Produce,Apple - Patanjali,39,42.08,0.0,1641.12,Credit Card,3.8,Amit Gupta,Amit Gupta - amit.gupta@gmail.com,No
+TXN00419,2025-04-13,S5,Delhi,Dairy,Yogurt - Amul,6,52.22,0.0,313.32,UPI,4.4,  Kavya Patel  ,Kavya Patel - kavya.patel@store.in,No
+TXN00267,2024-09-12,S4,Pune,Frozen Foods, Frozen Paratha - Nestle ,38,154.23,20.0,,Cash,2.8,Anita Sharma,Anita Sharma - anita.sharma@yahoo.com,Yes
+TXN00289,2025-05-26,S4,delhi,Bakery, Bread - ITC ,22,38.0,15.0,710.6,Debit Card,4.9,Rohan Sharma,Rohan Sharma - rohan.sharma@store.in,No
+TXN00137,2024-11-13,S5,Chennai,Household,Detergent - Local Brand,27,149.14,10.0,3624.1,UPI,,Neha Singh,Neha Singh - neha.singh@store.in,No
+TXN00167,2024-10-20,S1,Delhi,Snacks,Chocolate - ITC,21,32.41,0.0,680.61,Wallet,4.8,Suresh Iyer,Suresh Iyer - suresh.iyer@gmail.com,No
+TXN00084,2025-05-13,S4,Delhi,Beverages,Coffee - Britannia,47,48.34,0.0,2271.98,Cash,4.5,Suresh Sharma,Suresh Sharma - suresh.sharma@outlook.com,No
+TXN00444,2025-05-31,S1, Mumbai,Beverages,Mineral Water - ITC,9,70.45,20.0,507.24,Credit Card,2.6,Neha Patel,Neha Patel - neha.patel@store.in,No
+TXN00156,2025-01-19,S3,delhi,Snacks,Chips - Nestle,22,48.62,0.0,1069.64,Cash,3.3,Rahul Reddy,Rahul Reddy - rahul.reddy@yahoo.com,No
+TXN00357,2024-01-16,S2,bangalore,Household,Dish Soap - HUL,48,140.73,15.0,5741.78,Credit Card,,  Amit Reddy  ,Amit Reddy - amit.reddy@gmail.com,No
+TXN00382,2025-05-07,S1,Mumbai,Frozen Foods,Frozen Peas - Patanjali,26,187.94,0.0,4886.44,Cash,4.0,Anita Gupta,Anita Gupta - anita.gupta@outlook.com,No
+TXN00280,2024-02-08,S3,Mumbai,Beverages,Cola - ITC,44,48.84,,2148.96,Cash,4.4,Amit Nair,Amit Nair - amit.nair@gmail.com,No
+TXN00127,2024-08-18,S4,Mumbai,Snacks,Chips - HUL,16,38.56,5.0,586.11,Debit Card,3.9,Amit Mehta,Amit Mehta - amit.mehta@store.in,No
+TXN00196,2024-02-06,S5,Bangalore,Dairy, Butter - Amul ,40,87.35,15.0,2969.9,UPI,3.2,Sneha Reddy,Sneha Reddy - sneha.reddy@store.in,No
+TXN00266,2024-06-09,S2,delhi,Frozen Foods,Ice Cream - ITC,33,198.78,0.0,6559.74,UPI,4.3,Suresh Rao,Suresh Rao - suresh.rao@yahoo.com,Yes
+TXN00488,2024-05-28,S1,Pune,Dairy,Yogurt - Patanjali,42,81.35,5.0,3245.86,Debit Card,2.5,  Sneha Singh  ,Sneha Singh - sneha.singh@yahoo.com,No
+TXN00105,2025-01-27,S2,chennai,Snacks,Popcorn - HUL,21,49.4,,,Credit Card,3.9,Rohan Sharma,Rohan Sharma - rohan.sharma@yahoo.com,No
+TXN00154,2024-08-07,S2,Pune,Beverages, Orange Juice - Nestle ,23,75.03,5.0,1639.41,UPI,4.8,Rahul Sharma,Rahul Sharma - rahul.sharma@store.in,No
+TXN00283,2025-02-11,S5,delhi,Beverages,Coffee - HUL,4,45.46,5.0,172.75,UPI,,  Sneha Rao  ,Sneha Rao - sneha.rao@outlook.com,Yes
+TXN00392,2024-04-05,S3, Bangalore,Produce, Tomato - Amul ,7,29.29,0.0,205.03,UPI,3.0,Priya Reddy,Priya Reddy - priya.reddy@yahoo.com,No
+TXN00227,2024-02-02,S3,Delhi,Dairy,Milk - ITC,20,68.94,5.0,1309.86,Cash,,  Kavya Verma  ,Kavya Verma - kavya.verma@store.in,No
+TXN00368,2024-06-16,S2,bangalore,Beverages,Mineral Water - Nestle,13,51.36,5.0,634.3,Wallet,3.4,Amit Reddy,Amit Reddy - amit.reddy@yahoo.com,No
+TXN00026,2024-01-22,S3,Pune,Bakery, Bun - ITC ,13,40.26,10.0,471.04,Cash,4.9,Neha Singh,Neha Singh - neha.singh@store.in,No
+TXN00197,2024-06-08,S2,Mumbai,Beverages, Cola - Amul ,28,40.74,0.0,1140.72,Wallet,3.9,  Rahul Mehta  ,Rahul Mehta - rahul.mehta@outlook.com,No
+TXN00065,2025-04-06,S5,Bangalore,Snacks, Chocolate - Patanjali ,49,34.5,0.0,1690.5,UPI,3.4,Suresh Rao,Suresh Rao - suresh.rao@gmail.com,No
+TXN00016,2024-11-04,S3, Pune,Beverages,Coffee - Amul,6,53.89,10.0,291.01,UPI,4.6,  Rohan Mehta  ,Rohan Mehta - rohan.mehta@outlook.com,No
+TXN00298,2024-05-29,S4,Bangalore,Beverages, Orange Juice - Nestle ,11,76.96,10.0,761.9,Wallet,3.7,Rahul Patel,Rahul Patel - rahul.patel@gmail.com,No
+TXN00372,2024-01-12,S4,Mumbai,Dairy,Butter - Local Brand,6,57.96,5.0,330.37,UPI,3.1,  Priya Patel  ,Priya Patel - priya.patel@outlook.com,No
+TXN00110,2024-04-05,S1,Chennai ,Bakery,Croissant - Nestle,40,51.63,0.0,2065.2,Debit Card,3.5,  Amit Mehta  ,Amit Mehta - amit.mehta@store.in,No
+TXN00337,2024-03-09,S4,delhi,Beverages,Green Tea - Nestle,1,37.75,10.0,33.98,Wallet,3.5,Kavya Gupta,Kavya Gupta - kavya.gupta@yahoo.com,No
+TXN00309,2024-12-15,S2,pune,Dairy,Paneer - Nestle,1,46.03,5.0,43.73,Wallet,4.7,Anita Mehta,Anita Mehta - anita.mehta@yahoo.com,No
+TXN00027,2024-09-09,S4,Delhi ,Beverages,Mineral Water - Amul,32,71.22,10.0,2051.14,Credit Card,4.1,Rohan Gupta,Rohan Gupta - rohan.gupta@gmail.com,No
+TXN00077,2024-03-05,S2,Mumbai,Snacks,Biscuits - ITC,27,48.41,5.0,1241.72,UPI,4.4,Vikram Verma,Vikram Verma - vikram.verma@store.in,Yes
+TXN00044,2024-12-11,S1, Chennai,Snacks,Biscuits - Patanjali,14,51.53,5.0,685.35,UPI,4.1,  Kavya Verma  ,Kavya Verma - kavya.verma@outlook.com,No
+TXN00281,2025-04-21,S1,Delhi,Frozen Foods,Frozen Paratha - Britannia,47,171.43,0.0,8057.21,Credit Card,4.5,Vikram Sharma,Vikram Sharma - vikram.sharma@outlook.com,No
+TXN00004,2024-04-16,S5,Delhi,Frozen Foods,Frozen Peas - HUL,18,156.6,20.0,2255.04,Debit Card,3.8,Kavya Gupta,Kavya Gupta - kavya.gupta@yahoo.com,No
+TXN00460,2025-02-18,S5,Chennai ,Frozen Foods,Frozen Pizza - Britannia,29,131.21,5.0,3614.84,Debit Card,4.6,  Kavya Iyer  ,Kavya Iyer - kavya.iyer@yahoo.com,No
+TXN00050,2025-05-23,S4,delhi,Dairy,Butter - Britannia,49,79.68,10.0,3513.89,Credit Card,4.7,Rahul Gupta,Rahul Gupta - rahul.gupta@outlook.com,Yes
+TXN00406,2025-03-20,S1,Delhi,Dairy, Butter - Amul ,32,50.05,10.0,1441.44,Credit Card,4.3,Amit Nair,Amit Nair - amit.nair@yahoo.com,No
+TXN00388,2025-01-28,S4,Delhi,Produce,Spinach - Local Brand,17,29.51,,501.67,UPI,4.7,  Priya Gupta  ,Priya Gupta - priya.gupta@outlook.com,No
+TXN00487,2024-06-21,S3,Mumbai ,Frozen Foods,Frozen Peas - Local Brand,3,198.25,0.0,594.75,UPI,3.4,Vikram Mehta,Vikram Mehta - vikram.mehta@outlook.com,No
+TXN00031,2025-04-20,S2,delhi,Snacks,Biscuits - HUL,30,26.92,15.0,686.46,Wallet,3.5,Sneha Verma,Sneha Verma - sneha.verma@yahoo.com,No
+TXN00122,2024-12-05,S3,Pune,Produce,Banana - Patanjali,1,34.69,10.0,31.22,Cash,,  Rohan Iyer  ,Rohan Iyer - rohan.iyer@outlook.com,No
+TXN00432,2024-08-22,S1,Delhi,Snacks,Chocolate - ITC,26,39.18,5.0,967.75,UPI,3.0,  Rahul Singh  ,Rahul Singh - rahul.singh@outlook.com,No
+TXN00116,2024-02-05,S2,Pune,Beverages,Coffee - HUL,31,55.0,5.0,1619.75,Credit Card,1.4,  Neha Rao  ,Neha Rao - neha.rao@store.in,No
+TXN00466,2024-02-08,S4, Bangalore,Dairy,Butter - Local Brand,5,95.71,5.0,454.62,Credit Card,3.9,Amit Singh,Amit Singh - amit.singh@yahoo.com,No
+TXN00217,2024-12-03,S2,Mumbai,Frozen Foods,Frozen Pizza - Amul,24,164.72,5.0,3755.62,Cash,2.9,Suresh Rao,Suresh Rao - suresh.rao@outlook.com,No
+TXN00265,2024-09-09,S3, Mumbai,Snacks, Chips - Patanjali ,21,43.16,15.0,770.41,Cash,2.8,Priya Mehta,Priya Mehta - priya.mehta@store.in,No
+TXN00210,2024-09-10,S4,delhi,Frozen Foods,Frozen Paratha - Local Brand,44,183.46,10.0,7265.02,Wallet,4.1,Rohan Nair,Rohan Nair - rohan.nair@gmail.com,No
+TXN00317,2025-04-18,S5,chennai,Produce,Tomato - Britannia,26,40.77,10.0,954.02,Debit Card,2.7,Priya Iyer,Priya Iyer - priya.iyer@gmail.com,Yes
+TXN00385,2025-01-10,S3,pune,Produce,Banana - Nestle,6,33.69,10.0,181.93,Credit Card,2.1,Priya Gupta,Priya Gupta - priya.gupta@gmail.com,No
+TXN00002,2025-03-11,S4,Bangalore,Produce,Spinach - Patanjali,35,32.9,20.0,921.2,Wallet,4.6,  Kavya Verma  ,Kavya Verma - kavya.verma@store.in,No
+TXN00314,2024-04-29,S2, Pune,Frozen Foods,Frozen Pizza - Patanjali,44,150.54,15.0,5630.2,Cash,,Suresh Reddy,Suresh Reddy - suresh.reddy@store.in,No
+TXN00023,2024-06-09,S1,Chennai,Dairy,Paneer - HUL,39,85.05,20.0,,Credit Card,3.2,Kavya Patel,Kavya Patel - kavya.patel@store.in,No
+TXN00318,2024-04-26,S5,Mumbai,Produce,Tomato - Local Brand,13,45.95,0.0,597.35,Cash,4.7,  Rahul Rao  ,Rahul Rao - rahul.rao@store.in,No
+TXN00320,2025-01-27,S2,Bangalore,Produce,Tomato - Nestle,28,43.5,0.0,1218.0,Credit Card,4.2,Amit Gupta,Amit Gupta - amit.gupta@outlook.com,No
+TXN00008,2025-04-11,S5,mumbai,Snacks, Chocolate - Nestle ,25,55.93,5.0,1328.34,UPI,3.7,Sneha Verma,Sneha Verma - sneha.verma@outlook.com,No
+TXN00495,2025-03-16,S2, Pune,Produce,Spinach - HUL,17,22.5,15.0,325.12,Cash,1.2,Suresh Iyer,Suresh Iyer - suresh.iyer@gmail.com,No
+TXN00142,2024-08-20,S5,Pune,Dairy,Yogurt - Nestle,42,52.53,,2206.26,Debit Card,4.7,  Neha Mehta  ,Neha Mehta - neha.mehta@gmail.com,No
+TXN00087,2024-10-15,S2,Chennai,Produce,Spinach - Amul,37,40.82,15.0,1283.79,Wallet,3.4,Suresh Sharma,Suresh Sharma - suresh.sharma@outlook.com,No
+TXN00353,2024-08-10,S1,Pune,Produce, Tomato - Patanjali ,13,24.65,0.0,320.45,UPI,2.8,  Neha Patel  ,Neha Patel - neha.patel@outlook.com,No
+TXN00242,2025-03-28,S4,delhi,Bakery,Bread - Local Brand,44,60.36,5.0,2523.05,Cash,4.6,  Neha Rao  ,Neha Rao - neha.rao@store.in,No
+TXN00216,2024-06-01,S2,Bangalore,Snacks, Biscuits - Amul ,31,28.52,0.0,884.12,Credit Card,4.6,Suresh Nair,Suresh Nair - suresh.nair@gmail.com,No
+TXN00069,2024-02-22,S2,Delhi,Produce,Spinach - Patanjali,36,26.22,0.0,943.92,Debit Card,,  Vikram Nair  ,Vikram Nair - vikram.nair@gmail.com,No
+TXN00051,2024-02-04,S2,bangalore,Snacks,Biscuits - Local Brand,31,35.97,5.0,1059.32,UPI,2.2,  Sneha Rao  ,Sneha Rao - sneha.rao@store.in,No
+TXN00399,2024-09-29,S2, Delhi,Frozen Foods, Frozen Pizza - ITC ,35,186.45,0.0,6525.75,Wallet,4.4,  Neha Rao  ,Neha Rao - neha.rao@store.in,No
+TXN00414,2024-05-23,S1,Mumbai,Dairy,Paneer - HUL,1,60.98,5.0,57.93,Cash,5.0,Anita Mehta,Anita Mehta - anita.mehta@yahoo.com,Yes
+TXN00157,2025-02-06,S2, Pune,Bakery,Bun - Local Brand,38,28.19,5.0,1017.66,Cash,2.1,Neha Rao,Neha Rao - neha.rao@gmail.com,No
+TXN00253,2025-01-07,S1,Delhi ,Produce,Spinach - ITC,48,43.4,0.0,2083.2,Credit Card,3.0,Neha Verma,Neha Verma - neha.verma@store.in,No
+TXN00396,2025-06-08,S4, Delhi,Produce,Onion - Patanjali,43,47.67,0.0,2049.81,Cash,3.6,  Sneha Nair  ,Sneha Nair - sneha.nair@outlook.com,No
+TXN00469,2024-06-21,S3,Chennai,Frozen Foods, Ice Cream - ITC ,46,120.33,0.0,5535.18,Credit Card,3.8,Amit Gupta,Amit Gupta - amit.gupta@gmail.com,Yes
+TXN00403,2024-01-19,S4,bangalore,Beverages,Coffee - Nestle,20,79.8,5.0,1516.2,Debit Card,2.3,Neha Nair,Neha Nair - neha.nair@yahoo.com,No
+TXN00358,2024-12-01,S4, Delhi,Dairy, Butter - Patanjali ,14,48.01,0.0,672.14,Debit Card,2.0,Priya Reddy,Priya Reddy - priya.reddy@store.in,No
+TXN00255,2024-04-08,S5,Mumbai ,Dairy,Yogurt - Local Brand,1,63.86,0.0,63.86,Credit Card,3.1,  Rahul Singh  ,Rahul Singh - rahul.singh@gmail.com,No
+TXN00277,2025-01-27,S2,Chennai,Household,Floor Cleaner - Local Brand,49,168.28,5.0,7833.43,Debit Card,4.4,Neha Verma,Neha Verma - neha.verma@store.in,Yes
+TXN00179,2024-12-11,S1,Chennai,Household, Floor Cleaner - HUL ,38,151.26,10.0,5173.09,Credit Card,4.1,  Rohan Iyer  ,Rohan Iyer - rohan.iyer@gmail.com,No
+TXN00282,2025-06-21,S3, Delhi,Bakery,Cookies - ITC,23,56.67,5.0,1238.24,Credit Card,4.2,Rahul Reddy,Rahul Reddy - rahul.reddy@yahoo.com,No
+TXN00391,2024-04-08,S4,Mumbai ,Produce, Spinach - Patanjali ,13,30.71,10.0,359.31,Cash,4.3,Rohan Sharma,Rohan Sharma - rohan.sharma@gmail.com,No
+TXN00238,2024-08-13,S1, Bangalore,Bakery,Bun - Local Brand,15,31.32,15.0,399.33,Cash,3.6,Rohan Reddy,Rohan Reddy - rohan.reddy@store.in,No
+TXN00072,2025-01-14,S2,Bangalore,Snacks,Namkeen - Nestle,15,33.55,10.0,452.92,Wallet,4.2,Priya Nair,Priya Nair - priya.nair@outlook.com,No
+TXN00461,2025-03-20,S5,Bangalore,Household,Detergent - Patanjali,39,135.24,10.0,4746.92,Credit Card,4.6,  Neha Patel  ,Neha Patel - neha.patel@gmail.com,No
+TXN00130,2025-01-19,S4,Bangalore,Household,Tissue Paper - Local Brand,15,138.08,15.0,1760.52,Credit Card,5.0,Rahul Iyer,Rahul Iyer - rahul.iyer@yahoo.com,No
+TXN00145,2025-03-17,S5,Bangalore,Household, Tissue Paper - Nestle ,43,169.48,10.0,6558.88,Cash,2.8,Rohan Reddy,Rohan Reddy - rohan.reddy@store.in,No
+TXN00449,2025-05-10,S4,Chennai,Produce,Spinach - Britannia,7,37.88,10.0,238.64,UPI,4.2,  Anita Nair  ,Anita Nair - anita.nair@gmail.com,No
+TXN00336,2024-08-07,S2,Bangalore,Frozen Foods,Ice Cream - HUL,1,127.42,15.0,108.31,Debit Card,4.2,Amit Nair,Amit Nair - amit.nair@store.in,Yes
+TXN00134,2024-12-24,S3,Bangalore,Beverages,Coffee - ITC,14,47.55,0.0,665.7,UPI,3.6,Sneha Mehta,Sneha Mehta - sneha.mehta@store.in,No
+TXN00204,2024-05-31,S4,delhi,Produce,Apple - Local Brand,12,42.19,0.0,506.28,UPI,4.0,  Priya Sharma  ,Priya Sharma - priya.sharma@store.in,No
+TXN00394,2024-02-06,S3,Chennai,Produce,Tomato - HUL,15,39.32,,589.8,Debit Card,5.0,  Anita Mehta  ,Anita Mehta - anita.mehta@gmail.com,No
+TXN00256,2024-02-06,S4,Mumbai,Dairy,Cheese - Patanjali,25,46.73,10.0,1051.42,Cash,3.8,  Priya Singh  ,Priya Singh - priya.singh@outlook.com,No
+TXN00073,2025-05-07,S1,Bangalore,Produce,Apple - Nestle,13,28.55,0.0,371.15,Credit Card,2.3,Rahul Reddy,Rahul Reddy - rahul.reddy@gmail.com,Yes
+TXN00397,2024-10-05,S3, Mumbai,Frozen Foods, Frozen Peas - HUL ,47,148.97,15.0,5951.35,Cash,3.7,  Kavya Patel  ,Kavya Patel - kavya.patel@outlook.com,No
+TXN00236,2024-10-09,S1, Mumbai ,Dairy,Cheese - Local Brand,16,71.94,0.0,1151.04,UPI,3.3,  Rahul Iyer  ,Rahul Iyer - rahul.iyer@yahoo.com,No
+TXN00038,2024-06-15,S4,Delhi,Produce,Spinach - Nestle,22,28.5,20.0,501.6,UPI,5.0,Neha Verma,Neha Verma - neha.verma@outlook.com,No
